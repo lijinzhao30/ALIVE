@@ -1,0 +1,16 @@
+{
+  "source": "Overall results reported in the ALIVE paper, Tables 2 and 3.",
+  "models": [
+    {"name": "ALIVE", "short": "ALIVE", "color": "#008A79", "icon": "alive"},
+    {"name": "JoyAI-VL-Interaction", "short": "JoyAI", "color": "#CA984F", "icon": "joy"},
+    {"name": "AURA", "short": "AURA", "color": "#9372BA", "icon": "aura"},
+    {"name": "VideoChat3", "short": "VideoChat3", "color": "#4F91C1", "icon": "videochat"}
+  ],
+  "benchmarks": [
+    {"name": "OVO-Bench", "group": "understanding", "metric": "Overall accuracy (%)", "scores": [68.9,60.6,65.3,58.8]},
+    {"name": "StreamingBench", "group": "understanding", "metric": "Overall accuracy (%)", "scores": [76.0,67.4,73.1,68.7]},
+    {"name": "ProactiveVideoQA", "group": "understanding", "metric": "PAUC · ω = 0.5", "scores": [51.6,28.8,32.0,37.6]},
+    {"name": "IPIBench", "group": "interaction", "metric": "Overall accuracy (%)", "scores": [40.3,20.2,21.6,12.0]},
+    {"name": "FSI-Bench", "group": "interaction", "metric": "EDP · Macro accuracy (%)", "scores": [52.8,17.4,8.3,5.9]}
+  ]
+}

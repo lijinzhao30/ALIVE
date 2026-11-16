@@ -1,0 +1,3255 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="403.2pt" viewBox="0 0 864 403.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-16T23:45:46.969645</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 403.2 
+L 864 403.2 
+L 864 0 
+L 0 0 
+z
+" style="fill: #f5f7fa"/>
+  </g>
+  <g id="patch_2">
+   <path d="M 44.928 380.2176 
+L 270.72 380.2176 
+Q 292.32 380.2176 292.32 370.1376 
+L 292.32 105.6384 
+Q 292.32 95.5584 270.72 95.5584 
+L 44.928 95.5584 
+Q 23.328 95.5584 23.328 105.6384 
+L 23.328 370.1376 
+Q 23.328 380.2176 44.928 380.2176 
+z
+" style="fill: #ffffff; stroke: #d2dde9; stroke-width: 0.85; stroke-linejoin: miter"/>
+  </g>
+  <g id="patch_3">
+   <path d="M 319.104 380.2176 
+L 544.896 380.2176 
+Q 566.496 380.2176 566.496 370.1376 
+L 566.496 105.6384 
+Q 566.496 95.5584 544.896 95.5584 
+L 319.104 95.5584 
+Q 297.504 95.5584 297.504 105.6384 
+L 297.504 370.1376 
+Q 297.504 380.2176 319.104 380.2176 
+z
+" style="fill: #ffffff; stroke: #d2dde9; stroke-width: 0.85; stroke-linejoin: miter"/>
+  </g>
+  <g id="patch_4">
+   <path d="M 593.28 380.2176 
+L 819.072 380.2176 
+Q 840.672 380.2176 840.672 370.1376 
+L 840.672 105.6384 
+Q 840.672 95.5584 819.072 95.5584 
+L 593.28 95.5584 
+Q 571.68 95.5584 571.68 105.6384 
+L 571.68 370.1376 
+Q 571.68 380.2176 593.28 380.2176 
+z
+" style="fill: #ffffff; stroke: #d2dde9; stroke-width: 0.85; stroke-linejoin: miter"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_5">
+    <path d="M 53.568 342.72 
+L 270.72 342.72 
+L 270.72 166.1184 
+L 53.568 166.1184 
+L 53.568 342.72 
+z
+" style="fill: none"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <!-- ALIVE -->
+      <g style="fill: #008a79" transform="translate(72.001527 361.5272) scale(0.092 -0.092)">
+       <defs>
+        <path id="ManropeREADME-Bold-1" d="M 128 0 
+L 1558 4608 
+L 2774 4608 
+L 4205 0 
+L 3357 0 
+L 2074 4099 
+L 2240 4099 
+L 973 0 
+L 128 0 
+z
+M 957 979 
+L 957 1747 
+L 3382 1747 
+L 3382 979 
+L 957 979 
+z
+" transform="scale(0.015625)"/>
+        <path id="ManropeREADME-Bold-4c" d="M 512 0 
+L 512 4608 
+L 1331 4608 
+L 1331 768 
+L 3341 768 
+L 3341 0 
+L 512 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="ManropeREADME-Bold-3d" d="M 512 0 
+L 512 4608 
+L 1331 4608 
+L 1331 0 
+L 512 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="ManropeREADME-Bold-95" d="M 1462 0 
+L 32 4608 
+L 877 4608 
+L 2061 784 
+L 3261 4608 
+L 4109 4608 
+L 2678 0 
+L 1462 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="ManropeREADME-Bold-23" d="M 448 0 
+L 448 4608 
+L 3440 4608 
+L 3440 3840 
+L 1267 3840 
+L 1267 2778 
+L 3056 2778 
+L 3056 2010 
+L 1267 2010 
+L 1267 768 
+L 3440 768 
+L 3440 0 
+L 448 0 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#ManropeREADME-Bold-1"/>
+       <use xlink:href="#ManropeREADME-Bold-4c" transform="translate(67.703125 0)"/>
+       <use xlink:href="#ManropeREADME-Bold-3d" transform="translate(121.40625 0)"/>
+       <use xlink:href="#ManropeREADME-Bold-95" transform="translate(150.203125 0)"/>
+       <use xlink:href="#ManropeREADME-Bold-23" transform="translate(214.90625 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <!-- JoyAI -->
+      <g transform="translate(124.910446 361.5272) scale(0.092 -0.092)">
+       <defs>
+        <path id="ManropeREADME-Medium-48" d="M 1280 -93 
+Q 797 -93 461 169 
+Q 125 432 0 874 
+L 566 1008 
+Q 618 774 814 611 
+Q 1011 448 1267 448 
+Q 1434 448 1606 529 
+Q 1779 611 1872 797 
+Q 1936 925 1945 1080 
+Q 1955 1235 1955 1446 
+L 1955 4608 
+L 2531 4608 
+L 2531 1446 
+Q 2531 1248 2529 1091 
+Q 2528 934 2497 792 
+Q 2467 650 2381 502 
+Q 2208 198 1918 52 
+Q 1629 -93 1280 -93 
+z
+" transform="scale(0.015625)"/>
+        <path id="ManropeREADME-Medium-101" d="M 1920 -96 
+Q 1405 -96 1032 137 
+Q 659 371 457 784 
+Q 256 1197 256 1731 
+Q 256 2275 461 2684 
+Q 666 3094 1040 3323 
+Q 1414 3552 1920 3552 
+Q 2438 3552 2812 3320 
+Q 3187 3088 3387 2677 
+Q 3587 2266 3587 1731 
+Q 3587 1190 3385 779 
+Q 3184 368 2809 136 
+Q 2435 -96 1920 -96 
+z
+M 1920 445 
+Q 2458 445 2720 803 
+Q 2982 1162 2982 1731 
+Q 2982 2317 2716 2664 
+Q 2451 3011 1920 3011 
+Q 1558 3011 1324 2848 
+Q 1091 2685 976 2397 
+Q 861 2109 861 1731 
+Q 861 1149 1129 797 
+Q 1398 445 1920 445 
+z
+" transform="scale(0.015625)"/>
+        <path id="ManropeREADME-Medium-145" d="M 928 -1536 
+L 1597 282 
+L 1606 -256 
+L 96 3456 
+L 694 3456 
+L 1878 470 
+L 1674 470 
+L 2784 3456 
+L 3363 3456 
+L 1482 -1536 
+L 928 -1536 
+z
+" transform="scale(0.015625)"/>
+        <path id="ManropeREADME-Medium-1" d="M 128 0 
+L 1670 4608 
+L 2464 4608 
+L 4006 0 
+L 3414 0 
+L 1971 4275 
+L 2150 4275 
+L 720 0 
+L 128 0 
+z
+M 870 1078 
+L 870 1613 
+L 3264 1613 
+L 3264 1078 
+L 870 1078 
+z
+" transform="scale(0.015625)"/>
+        <path id="ManropeREADME-Medium-3d" d="M 512 0 
+L 512 4608 
+L 1082 4608 
+L 1082 0 
+L 512 0 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#ManropeREADME-Medium-48"/>
+       <use xlink:href="#ManropeREADME-Medium-101" transform="translate(47.59375 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-145" transform="translate(105.640625 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-1" transform="translate(157.9375 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-3d" transform="translate(222.53125 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <!-- AURA -->
+      <g transform="translate(175.941991 361.5272) scale(0.092 -0.092)">
+       <defs>
+        <path id="ManropeREADME-Medium-82" d="M 2266 -96 
+Q 1731 -96 1321 125 
+Q 912 346 680 744 
+Q 448 1142 448 1680 
+L 448 4605 
+L 1024 4608 
+L 1024 1728 
+Q 1024 1402 1134 1160 
+Q 1245 918 1427 758 
+Q 1610 598 1829 520 
+Q 2048 442 2266 442 
+Q 2486 442 2707 522 
+Q 2928 602 3109 760 
+Q 3290 918 3398 1161 
+Q 3507 1405 3507 1728 
+L 3507 4608 
+L 4083 4608 
+L 4083 1680 
+Q 4083 1146 3851 746 
+Q 3619 346 3209 125 
+Q 2800 -96 2266 -96 
+z
+" transform="scale(0.015625)"/>
+        <path id="ManropeREADME-Medium-72" d="M 448 0 
+L 448 4608 
+L 2269 4608 
+Q 2336 4608 2429 4603 
+Q 2522 4598 2608 4582 
+Q 2982 4525 3236 4326 
+Q 3491 4128 3619 3825 
+Q 3747 3523 3747 3155 
+Q 3747 2621 3468 2229 
+Q 3190 1837 2653 1738 
+L 2435 1702 
+L 1018 1702 
+L 1018 0 
+L 448 0 
+z
+M 3190 0 
+L 2282 1875 
+L 2845 2048 
+L 3843 0 
+L 3190 0 
+z
+M 1018 2243 
+L 2250 2243 
+Q 2310 2243 2388 2249 
+Q 2467 2256 2538 2272 
+Q 2758 2323 2897 2459 
+Q 3037 2595 3101 2779 
+Q 3165 2963 3165 3155 
+Q 3165 3347 3101 3531 
+Q 3037 3715 2897 3852 
+Q 2758 3990 2538 4038 
+Q 2467 4058 2388 4062 
+Q 2310 4067 2250 4067 
+L 1018 4067 
+L 1018 2243 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#ManropeREADME-Medium-1"/>
+       <use xlink:href="#ManropeREADME-Medium-82" transform="translate(62.59375 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-72" transform="translate(133.390625 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-1" transform="translate(197.4375 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <!-- VideoChat3 -->
+      <g transform="translate(214.396129 361.5272) scale(0.092 -0.092)">
+       <defs>
+        <path id="ManropeREADME-Medium-95" d="M 1574 0 
+L 32 4608 
+L 624 4608 
+L 1965 605 
+L 3318 4608 
+L 3910 4608 
+L 2368 0 
+L 1574 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="ManropeREADME-Medium-e5" d="M 512 4067 
+L 512 4656 
+L 1082 4656 
+L 1082 4067 
+L 512 4067 
+z
+M 512 0 
+L 512 3456 
+L 1082 3456 
+L 1082 0 
+L 512 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="ManropeREADME-Medium-c6" d="M 1805 -96 
+Q 1322 -96 976 145 
+Q 630 387 443 800 
+Q 256 1213 256 1731 
+Q 256 2250 443 2662 
+Q 630 3075 976 3313 
+Q 1322 3552 1802 3552 
+Q 2291 3552 2624 3315 
+Q 2957 3078 3128 2665 
+Q 3299 2253 3299 1731 
+Q 3299 1216 3128 801 
+Q 2957 387 2624 145 
+Q 2291 -96 1805 -96 
+z
+M 1875 426 
+Q 2224 426 2448 594 
+Q 2672 762 2779 1058 
+Q 2886 1354 2886 1731 
+Q 2886 2115 2779 2408 
+Q 2672 2701 2451 2865 
+Q 2230 3030 1891 3030 
+Q 1539 3030 1310 2857 
+Q 1082 2685 971 2390 
+Q 861 2096 861 1731 
+Q 861 1363 973 1067 
+Q 1085 771 1310 598 
+Q 1536 426 1875 426 
+z
+M 2886 0 
+L 2886 2544 
+L 2822 2544 
+L 2822 4608 
+L 3395 4608 
+L 3395 0 
+L 2886 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="ManropeREADME-Medium-ca" d="M 1946 -96 
+Q 1437 -96 1057 129 
+Q 678 355 467 760 
+Q 256 1165 256 1706 
+Q 256 2272 464 2686 
+Q 672 3101 1045 3326 
+Q 1418 3552 1920 3552 
+Q 2442 3552 2808 3312 
+Q 3174 3072 3358 2627 
+Q 3542 2182 3517 1568 
+L 2941 1568 
+L 2941 1773 
+Q 2931 2410 2681 2725 
+Q 2432 3040 1939 3040 
+Q 1411 3040 1136 2701 
+Q 861 2362 861 1728 
+Q 861 1117 1136 781 
+Q 1411 445 1920 445 
+Q 2262 445 2515 601 
+Q 2768 758 2912 1053 
+L 3459 864 
+Q 3258 406 2853 155 
+Q 2448 -96 1946 -96 
+z
+M 669 1568 
+L 669 2026 
+L 3222 2026 
+L 3222 1568 
+L 669 1568 
+z
+" transform="scale(0.015625)"/>
+        <path id="ManropeREADME-Medium-19" d="M 2342 -96 
+Q 1654 -96 1174 208 
+Q 694 512 443 1053 
+Q 192 1594 192 2304 
+Q 192 3014 443 3555 
+Q 694 4096 1174 4400 
+Q 1654 4704 2342 4704 
+Q 3142 4704 3659 4297 
+Q 4176 3891 4371 3203 
+L 3792 3050 
+Q 3651 3565 3289 3862 
+Q 2928 4160 2342 4160 
+Q 1827 4160 1484 3926 
+Q 1142 3693 969 3275 
+Q 797 2858 794 2304 
+Q 790 1754 963 1336 
+Q 1136 918 1481 683 
+Q 1827 448 2342 448 
+Q 2928 448 3289 747 
+Q 3651 1046 3792 1558 
+L 4371 1405 
+Q 4176 720 3659 312 
+Q 3142 -96 2342 -96 
+z
+" transform="scale(0.015625)"/>
+        <path id="ManropeREADME-Medium-e2" d="M 2909 0 
+L 2909 1731 
+Q 2909 1978 2865 2205 
+Q 2822 2432 2715 2613 
+Q 2608 2794 2427 2899 
+Q 2246 3005 1971 3005 
+Q 1757 3005 1582 2933 
+Q 1408 2861 1283 2713 
+Q 1158 2566 1089 2344 
+Q 1021 2122 1021 1821 
+L 646 1936 
+Q 646 2438 827 2798 
+Q 1008 3158 1336 3352 
+Q 1664 3546 2109 3546 
+Q 2445 3546 2681 3440 
+Q 2918 3334 3075 3160 
+Q 3232 2986 3321 2770 
+Q 3411 2554 3448 2331 
+Q 3485 2109 3485 1910 
+L 3485 0 
+L 2909 0 
+z
+M 445 0 
+L 445 4608 
+L 957 4608 
+L 957 2064 
+L 1021 2064 
+L 1021 0 
+L 445 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="ManropeREADME-Medium-a8" d="M 1430 -96 
+Q 1043 -96 782 46 
+Q 522 189 389 422 
+Q 256 656 256 934 
+Q 256 1206 360 1406 
+Q 464 1606 653 1739 
+Q 842 1872 1104 1949 
+Q 1350 2016 1656 2065 
+Q 1962 2115 2275 2156 
+Q 2589 2198 2861 2237 
+L 2656 2118 
+Q 2666 2579 2472 2800 
+Q 2278 3021 1805 3021 
+Q 1491 3021 1256 2878 
+Q 1021 2736 925 2416 
+L 384 2579 
+Q 509 3034 867 3293 
+Q 1226 3552 1811 3552 
+Q 2282 3552 2619 3384 
+Q 2957 3216 3104 2877 
+Q 3178 2717 3197 2529 
+Q 3216 2342 3216 2138 
+L 3216 0 
+L 2710 0 
+L 2710 829 
+L 2829 752 
+Q 2634 333 2283 118 
+Q 1933 -96 1430 -96 
+z
+M 1517 381 
+Q 1824 381 2049 491 
+Q 2275 602 2412 782 
+Q 2550 963 2592 1178 
+Q 2640 1338 2645 1534 
+Q 2650 1731 2650 1837 
+L 2848 1750 
+Q 2570 1712 2301 1677 
+Q 2032 1642 1792 1602 
+Q 1552 1562 1360 1507 
+Q 1219 1462 1096 1392 
+Q 973 1322 897 1211 
+Q 822 1101 822 938 
+Q 822 797 894 669 
+Q 966 541 1118 461 
+Q 1270 381 1517 381 
+z
+" transform="scale(0.015625)"/>
+        <path id="ManropeREADME-Medium-126" d="M 2378 0 
+Q 2070 -61 1771 -49 
+Q 1472 -38 1238 72 
+Q 1005 182 883 416 
+Q 781 621 773 830 
+Q 765 1040 765 1306 
+L 765 4416 
+L 1334 4416 
+L 1334 1331 
+Q 1334 1120 1339 969 
+Q 1344 819 1405 710 
+Q 1520 506 1771 470 
+Q 2022 435 2378 490 
+L 2378 0 
+z
+M 64 2986 
+L 64 3456 
+L 2378 3456 
+L 2378 2986 
+L 64 2986 
+z
+" transform="scale(0.015625)"/>
+        <path id="ManropeREADME-Medium-220" d="M 1712 -90 
+Q 1370 -90 1075 36 
+Q 781 163 568 395 
+Q 355 627 256 947 
+L 803 1104 
+Q 909 784 1155 617 
+Q 1402 451 1709 454 
+Q 1990 461 2196 584 
+Q 2403 707 2516 921 
+Q 2630 1136 2630 1418 
+Q 2630 1846 2374 2113 
+Q 2118 2381 1702 2381 
+Q 1587 2381 1460 2349 
+Q 1334 2317 1226 2259 
+L 950 2710 
+L 2659 4256 
+L 2733 4064 
+L 438 4064 
+L 438 4608 
+L 3155 4608 
+L 3155 4061 
+L 1699 2666 
+L 1693 2867 
+Q 2150 2899 2492 2716 
+Q 2835 2534 3025 2195 
+Q 3216 1856 3216 1418 
+Q 3216 976 3017 637 
+Q 2819 298 2480 104 
+Q 2141 -90 1712 -90 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#ManropeREADME-Medium-95"/>
+       <use xlink:href="#ManropeREADME-Medium-e5" transform="translate(59.59375 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-c6" transform="translate(84.5 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-ca" transform="translate(144.546875 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-101" transform="translate(203.59375 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-19" transform="translate(263.640625 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-e2" transform="translate(335.9375 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-a8" transform="translate(396.390625 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-126" transform="translate(452.640625 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-220" transform="translate(493.796875 0)"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_5">
+      <path d="M 53.568 342.72 
+L 270.72 342.72 
+" clip-path="url(#p8e368cdea9)" style="fill: none; stroke: #e7edf3; stroke-width: 0.65; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_5">
+      <!-- 0 -->
+      <g style="fill: #728396" transform="translate(39.5605 346.984) scale(0.08 -0.08)">
+       <defs>
+        <path id="ManropeREADME-Medium-21d" d="M 2003 -96 
+Q 1555 -96 1204 107 
+Q 854 310 651 660 
+Q 448 1011 448 1459 
+L 448 3149 
+Q 448 3597 651 3949 
+Q 854 4301 1204 4502 
+Q 1555 4704 2003 4704 
+Q 2451 4704 2803 4502 
+Q 3155 4301 3356 3949 
+Q 3558 3597 3558 3149 
+L 3558 1459 
+Q 3558 1011 3356 660 
+Q 3155 310 2803 107 
+Q 2451 -96 2003 -96 
+z
+M 2003 451 
+Q 2275 451 2496 582 
+Q 2717 714 2848 936 
+Q 2979 1158 2979 1427 
+L 2979 3184 
+Q 2979 3456 2848 3677 
+Q 2717 3898 2496 4029 
+Q 2275 4160 2003 4160 
+Q 1734 4160 1512 4029 
+Q 1290 3898 1158 3677 
+Q 1027 3456 1027 3184 
+L 1027 1427 
+Q 1027 1158 1158 936 
+Q 1290 714 1512 582 
+Q 1734 451 2003 451 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#ManropeREADME-Medium-21d"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_7">
+      <path d="M 53.568 312.006678 
+L 270.72 312.006678 
+" clip-path="url(#p8e368cdea9)" style="fill: none; stroke: #e7edf3; stroke-width: 0.65; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_6">
+      <!-- 20 -->
+      <g style="fill: #728396" transform="translate(34.933 316.270678) scale(0.08 -0.08)">
+       <defs>
+        <path id="ManropeREADME-Medium-21f" d="M 320 3 
+L 323 515 
+L 2368 2355 
+Q 2624 2586 2712 2792 
+Q 2800 2998 2800 3216 
+Q 2800 3482 2678 3696 
+Q 2557 3910 2347 4035 
+Q 2138 4160 1872 4160 
+Q 1597 4160 1382 4030 
+Q 1168 3901 1045 3686 
+Q 922 3472 925 3219 
+L 342 3219 
+Q 342 3654 544 3988 
+Q 746 4323 1093 4513 
+Q 1440 4704 1882 4704 
+Q 2310 4704 2649 4507 
+Q 2989 4310 3185 3972 
+Q 3382 3635 3382 3210 
+Q 3382 2909 3307 2688 
+Q 3232 2467 3075 2280 
+Q 2918 2093 2682 1882 
+L 982 355 
+L 909 547 
+L 3382 547 
+L 3382 3 
+L 320 3 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#ManropeREADME-Medium-21f"/>
+       <use xlink:href="#ManropeREADME-Medium-21d" transform="translate(57.84375 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_9">
+      <path d="M 53.568 281.293357 
+L 270.72 281.293357 
+" clip-path="url(#p8e368cdea9)" style="fill: none; stroke: #e7edf3; stroke-width: 0.65; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_7">
+      <!-- 40 -->
+      <g style="fill: #728396" transform="translate(34.793 285.557357) scale(0.08 -0.08)">
+       <defs>
+        <path id="ManropeREADME-Medium-221" d="M 2438 0 
+L 2438 848 
+L 320 848 
+L 320 1389 
+L 1840 4608 
+L 2486 4608 
+L 966 1389 
+L 2438 1389 
+L 2438 2685 
+L 3014 2685 
+L 3014 1389 
+L 3494 1389 
+L 3494 848 
+L 3014 848 
+L 3014 0 
+L 2438 0 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#ManropeREADME-Medium-221"/>
+       <use xlink:href="#ManropeREADME-Medium-21d" transform="translate(59.59375 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_11">
+      <path d="M 53.568 250.580035 
+L 270.72 250.580035 
+" clip-path="url(#p8e368cdea9)" style="fill: none; stroke: #e7edf3; stroke-width: 0.65; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12"/>
+     <g id="text_8">
+      <!-- 60 -->
+      <g style="fill: #728396" transform="translate(34.593 254.844035) scale(0.08 -0.08)">
+       <defs>
+        <path id="ManropeREADME-Medium-223" d="M 2019 -96 
+Q 1581 -96 1224 115 
+Q 867 326 657 692 
+Q 448 1059 448 1520 
+L 448 3053 
+Q 448 3536 657 3909 
+Q 867 4282 1233 4491 
+Q 1600 4701 2070 4701 
+Q 2451 4701 2779 4545 
+Q 3107 4390 3331 4099 
+L 2906 3722 
+Q 2768 3923 2547 4041 
+Q 2326 4160 2070 4160 
+Q 1766 4160 1531 4014 
+Q 1296 3869 1161 3630 
+Q 1027 3392 1027 3117 
+L 1027 2192 
+L 902 2333 
+Q 1104 2621 1414 2793 
+Q 1725 2966 2086 2966 
+Q 2515 2966 2856 2764 
+Q 3197 2563 3393 2219 
+Q 3590 1875 3590 1446 
+Q 3590 1018 3376 669 
+Q 3162 320 2805 112 
+Q 2448 -96 2019 -96 
+z
+M 2019 454 
+Q 2294 454 2521 587 
+Q 2749 720 2881 945 
+Q 3014 1171 3014 1446 
+Q 3014 1722 2881 1949 
+Q 2749 2176 2523 2309 
+Q 2298 2442 2022 2442 
+Q 1747 2442 1521 2309 
+Q 1296 2176 1161 1949 
+Q 1027 1722 1027 1446 
+Q 1027 1174 1160 948 
+Q 1293 723 1518 588 
+Q 1744 454 2019 454 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#ManropeREADME-Medium-223"/>
+       <use xlink:href="#ManropeREADME-Medium-21d" transform="translate(62.09375 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_13">
+      <path d="M 53.568 219.866713 
+L 270.72 219.866713 
+" clip-path="url(#p8e368cdea9)" style="fill: none; stroke: #e7edf3; stroke-width: 0.65; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14"/>
+     <g id="text_9">
+      <!-- 80 -->
+      <g style="fill: #728396" transform="translate(34.833 224.130713) scale(0.08 -0.08)">
+       <defs>
+        <path id="ManropeREADME-Medium-225" d="M 1888 -96 
+Q 1446 -96 1107 81 
+Q 768 259 576 576 
+Q 384 893 384 1315 
+Q 384 1728 581 2061 
+Q 778 2394 1174 2573 
+L 1165 2365 
+Q 842 2522 669 2808 
+Q 496 3094 496 3443 
+Q 496 3834 675 4115 
+Q 854 4397 1168 4550 
+Q 1482 4704 1888 4704 
+Q 2294 4704 2608 4550 
+Q 2922 4397 3101 4115 
+Q 3280 3834 3280 3443 
+Q 3280 3094 3117 2811 
+Q 2954 2528 2614 2365 
+L 2602 2570 
+Q 2998 2397 3198 2062 
+Q 3398 1728 3398 1315 
+Q 3398 893 3204 576 
+Q 3011 259 2670 81 
+Q 2330 -96 1888 -96 
+z
+M 1888 448 
+Q 2291 448 2542 670 
+Q 2794 893 2794 1315 
+Q 2794 1741 2546 1963 
+Q 2298 2186 1888 2186 
+Q 1482 2186 1234 1963 
+Q 986 1741 986 1315 
+Q 986 893 1235 670 
+Q 1485 448 1888 448 
+z
+M 1888 2733 
+Q 2240 2733 2457 2910 
+Q 2675 3088 2675 3443 
+Q 2675 3798 2457 3976 
+Q 2240 4154 1888 4154 
+Q 1539 4154 1320 3976 
+Q 1101 3798 1101 3443 
+Q 1101 3088 1320 2910 
+Q 1539 2733 1888 2733 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#ManropeREADME-Medium-225"/>
+       <use xlink:href="#ManropeREADME-Medium-21d" transform="translate(59.09375 0)"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="patch_6">
+    <path d="M 68.561829 342.72 
+L 100.6176 342.72 
+L 100.6176 236.912607 
+L 68.561829 236.912607 
+z
+" clip-path="url(#p8e368cdea9)" style="fill: #008a79"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 120.264686 342.72 
+L 152.320457 342.72 
+L 152.320457 249.658635 
+L 120.264686 249.658635 
+z
+" clip-path="url(#p8e368cdea9)" style="fill: #ca984f"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 171.967543 342.72 
+L 204.023314 342.72 
+L 204.023314 242.441005 
+L 171.967543 242.441005 
+z
+" clip-path="url(#p8e368cdea9)" style="fill: #9372ba"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 223.6704 342.72 
+L 255.726171 342.72 
+L 255.726171 252.422834 
+L 223.6704 252.422834 
+z
+" clip-path="url(#p8e368cdea9)" style="fill: #4f91c1"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 53.568 342.72 
+L 270.72 342.72 
+" style="fill: none; stroke: #b9c9d8; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_10">
+    <!-- 68.9 -->
+    <g style="fill: #008a79" transform="translate(66.661433 228.891274) scale(0.165 -0.165)">
+     <defs>
+      <path id="ManropeREADME-Bold-223" d="M 2048 -96 
+Q 1594 -96 1232 118 
+Q 870 333 659 712 
+Q 448 1091 448 1587 
+L 448 2957 
+Q 448 3491 659 3881 
+Q 870 4272 1251 4485 
+Q 1632 4698 2144 4698 
+Q 2486 4698 2793 4589 
+Q 3101 4480 3350 4237 
+L 2762 3654 
+Q 2643 3786 2480 3858 
+Q 2317 3930 2144 3930 
+Q 1885 3930 1691 3808 
+Q 1498 3686 1392 3491 
+Q 1286 3296 1286 3075 
+L 1286 2349 
+L 1142 2506 
+Q 1341 2723 1609 2840 
+Q 1878 2957 2173 2957 
+Q 2605 2957 2937 2761 
+Q 3270 2566 3459 2225 
+Q 3648 1885 3648 1453 
+Q 3648 1018 3429 667 
+Q 3210 317 2846 110 
+Q 2483 -96 2048 -96 
+z
+M 2048 688 
+Q 2259 688 2435 790 
+Q 2611 893 2713 1067 
+Q 2816 1242 2816 1453 
+Q 2816 1664 2713 1838 
+Q 2611 2013 2438 2117 
+Q 2266 2221 2054 2221 
+Q 1843 2221 1668 2117 
+Q 1494 2013 1390 1838 
+Q 1286 1664 1286 1453 
+Q 1286 1248 1388 1073 
+Q 1491 899 1664 793 
+Q 1837 688 2048 688 
+z
+" transform="scale(0.015625)"/>
+      <path id="ManropeREADME-Bold-225" d="M 1974 -96 
+Q 1510 -96 1152 93 
+Q 794 282 589 613 
+Q 384 944 384 1373 
+Q 384 1744 553 2069 
+Q 723 2394 1050 2595 
+L 1030 2336 
+Q 784 2550 645 2809 
+Q 506 3069 506 3389 
+Q 506 3789 693 4083 
+Q 880 4378 1211 4541 
+Q 1542 4704 1974 4704 
+Q 2403 4704 2734 4541 
+Q 3066 4378 3254 4083 
+Q 3443 3789 3443 3389 
+Q 3443 3069 3312 2811 
+Q 3181 2554 2912 2330 
+L 2909 2589 
+Q 3229 2400 3398 2072 
+Q 3568 1744 3568 1373 
+Q 3568 944 3363 613 
+Q 3158 282 2796 93 
+Q 2435 -96 1974 -96 
+z
+M 1974 678 
+Q 2298 678 2499 854 
+Q 2701 1030 2701 1373 
+Q 2701 1712 2499 1891 
+Q 2298 2070 1974 2070 
+Q 1648 2070 1449 1891 
+Q 1251 1712 1251 1373 
+Q 1251 1030 1451 854 
+Q 1651 678 1974 678 
+z
+M 1974 2851 
+Q 2240 2851 2406 2982 
+Q 2573 3114 2573 3389 
+Q 2573 3664 2406 3800 
+Q 2240 3936 1974 3936 
+Q 1706 3936 1539 3800 
+Q 1373 3664 1373 3389 
+Q 1373 3114 1539 2982 
+Q 1706 2851 1974 2851 
+z
+" transform="scale(0.015625)"/>
+      <path id="ManropeREADME-Bold-249" d="M 582 0 
+L 582 829 
+L 1411 829 
+L 1411 0 
+L 582 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="ManropeREADME-Bold-226" d="M 1930 4698 
+Q 2387 4698 2748 4483 
+Q 3110 4269 3321 3889 
+Q 3533 3510 3533 3014 
+L 3533 1645 
+Q 3533 1110 3321 720 
+Q 3110 330 2729 117 
+Q 2349 -96 1837 -96 
+Q 1494 -96 1187 14 
+Q 880 125 630 368 
+L 1219 947 
+Q 1338 819 1501 745 
+Q 1664 672 1837 672 
+Q 2096 672 2288 793 
+Q 2480 915 2587 1110 
+Q 2694 1306 2694 1530 
+L 2694 2253 
+L 2838 2096 
+Q 2640 1878 2369 1761 
+Q 2099 1645 1808 1645 
+Q 1373 1645 1040 1840 
+Q 707 2035 518 2376 
+Q 330 2717 330 3149 
+Q 330 3584 550 3934 
+Q 771 4285 1134 4491 
+Q 1498 4698 1930 4698 
+z
+M 1930 3914 
+Q 1722 3914 1546 3811 
+Q 1370 3709 1266 3534 
+Q 1162 3360 1162 3149 
+Q 1162 2941 1264 2765 
+Q 1366 2589 1540 2485 
+Q 1715 2381 1926 2381 
+Q 2138 2381 2312 2485 
+Q 2486 2589 2590 2765 
+Q 2694 2941 2694 3149 
+Q 2694 3357 2592 3529 
+Q 2490 3702 2315 3808 
+Q 2141 3914 1930 3914 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#ManropeREADME-Bold-223"/>
+     <use xlink:href="#ManropeREADME-Bold-225" transform="translate(62.203125 0)"/>
+     <use xlink:href="#ManropeREADME-Bold-249" transform="translate(123.953125 0)"/>
+     <use xlink:href="#ManropeREADME-Bold-226" transform="translate(155.109375 0)"/>
+    </g>
+   </g>
+   <g id="AnnotationBbox_1">
+    <g id="patch_11">
+     <path d="M 84.589714 210.960954 
+C 87.888841 210.960954 91.053288 209.650198 93.386123 207.317363 
+C 95.718957 204.984528 97.029714 201.820081 97.029714 198.520954 
+C 97.029714 195.221828 95.718957 192.057381 93.386123 189.724546 
+C 91.053288 187.391711 87.888841 186.080954 84.589714 186.080954 
+C 81.290588 186.080954 78.126141 187.391711 75.793306 189.724546 
+C 73.460471 192.057381 72.149714 195.221828 72.149714 198.520954 
+C 72.149714 201.820081 73.460471 204.984528 75.793306 207.317363 
+C 78.126141 209.650198 81.290588 210.960954 84.589714 210.960954 
+z
+" style="fill: #ffffff; stroke: #dce5ed; stroke-width: 0.6; stroke-linejoin: miter"/>
+    </g>
+    <image xlink:href="data:image/png;base64,
+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" id="image082de42c33" transform="scale(1 -1) translate(0 -19.2)" x="73.8" y="-189" width="21.6" height="19.2"/>
+   </g>
+   <g id="text_11">
+    <!-- 60.6 -->
+    <g style="fill: #102b46" transform="translate(117.964681 241.637303) scale(0.165 -0.165)">
+     <defs>
+      <path id="ManropeREADME-Bold-21d" d="M 2131 -96 
+Q 1629 -96 1251 117 
+Q 874 330 661 707 
+Q 448 1085 448 1587 
+L 448 3021 
+Q 448 3523 661 3900 
+Q 874 4278 1251 4491 
+Q 1629 4704 2131 4704 
+Q 2634 4704 3011 4491 
+Q 3389 4278 3601 3900 
+Q 3814 3523 3814 3021 
+L 3814 1587 
+Q 3814 1085 3601 707 
+Q 3389 330 3011 117 
+Q 2634 -96 2131 -96 
+z
+M 2131 685 
+Q 2368 685 2560 797 
+Q 2752 909 2864 1101 
+Q 2976 1293 2976 1530 
+L 2976 3085 
+Q 2976 3322 2864 3514 
+Q 2752 3706 2560 3818 
+Q 2368 3930 2131 3930 
+Q 1894 3930 1702 3818 
+Q 1510 3706 1398 3514 
+Q 1286 3322 1286 3085 
+L 1286 1530 
+Q 1286 1293 1398 1101 
+Q 1510 909 1702 797 
+Q 1894 685 2131 685 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#ManropeREADME-Bold-223"/>
+     <use xlink:href="#ManropeREADME-Bold-21d" transform="translate(62.203125 0)"/>
+     <use xlink:href="#ManropeREADME-Bold-249" transform="translate(128.796875 0)"/>
+     <use xlink:href="#ManropeREADME-Bold-223" transform="translate(159.953125 0)"/>
+    </g>
+   </g>
+   <g id="AnnotationBbox_2">
+    <g id="patch_12">
+     <path d="M 136.292571 223.706983 
+C 139.591698 223.706983 142.756145 222.396226 145.08898 220.063391 
+C 147.421815 217.730557 148.732571 214.56611 148.732571 211.266983 
+C 148.732571 207.967856 147.421815 204.803409 145.08898 202.470575 
+C 142.756145 200.13774 139.591698 198.826983 136.292571 198.826983 
+C 132.993445 198.826983 129.828998 200.13774 127.496163 202.470575 
+C 125.163328 204.803409 123.852571 207.967856 123.852571 211.266983 
+C 123.852571 214.56611 125.163328 217.730557 127.496163 220.063391 
+C 129.828998 222.396226 132.993445 223.706983 136.292571 223.706983 
+z
+" style="fill: #ffffff; stroke: #dce5ed; stroke-width: 0.6; stroke-linejoin: miter"/>
+    </g>
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAFQklEQVR4nN2YW4scRRTHf1XdPdOXnY0mbnQWL7uiJNEkCvqi4AVvDyIa1CcRRD+B4oOfQPDRoH4AkTyJDyrinRhBJRoN8RqNye5KErOXmb3M9vT0paqlajLJomSc7EZdPEtPD1PV5/zP//xPVfWKsixL1pFJ1plJ1plJ1plJ1plJ1pm5g0wqiwKkBCEgz7tXGNoxYcZNo2ptvoDjnJlX5hkijLpzrKOye0mJMHNWy5CemWbxhefRzSb54Z9oPvcsnQ/fB1VQZhmtl3aT/fA92aGDLL2824LJfz5M85mnST54j1JrdLNB65WXUCdP9I01ECB5yQhqdobl117FueJKnKvGSD7dh15aIvngfdIDX+JdcSXeNdeSfPwRyXvv4o6P423dQvLO2+j5edpvvUlx4gRyaMgytiZAeB7h/Q9QHDtK8cvPCAR6cZHi6FHSr74kuOc+RK2GGN5AtOsRkn170QuLyNowZZpRTByjmJrEv+12W8LyQog6++47dGvJMqMacwjHIflkLzpeJj10yJaOPLNMCtchfuN1Ovu/oJicJPnoQ0QQoGan0Wm6dlFTluS/HqH4bYrKjhtw6vWenNGLC6jjx0EpqFZRM9NkB79hwzN3oBtzlHEbb8sWy6D0fYTnrR1QmSRUdu5E1mqUWQrSsV1SaoU7ejne2Dhlp2PFW73pZjr79iKiiODue6lcv4PK9h1Q9W3z9dPPwIDU8ePoRgMZRTaw6RRzd8fGuhkrRT45AWnHdpcMQ5Z2v0j1llvs88XURLfvHUn48KO441efM5YYZLcvi8KyZNPTmuLEScqkjTs2jqhUbElFtWrvhsFicsKKurLzhu76tTJgENi16lzr0ECAVtqZ6eYuxF8crxy3Y+cIfMG2DnEahLCZC5IkRZmS5QVZlts58XK7C+Q8wawK0Eoz8aSUzC+0SNOM5eUYVSiSTofV2mBt38dc10ErzdxcE8+r0Fr6HT8IzqmRfxyQUoqhoRClNIVSCLdC1Q96Evv3AVUqnr1KXdI4NYNQitLs+MPmNCD+fUBlWVp2HEeifj9JYlq+Xie6+Fbcimc1dj7Wt+211meC/dmxeSzLCtI0tYLOsox0rkmRtHE8j6heJ4hCgqCK57kDa6ovoE4nZb65YJ0Nb6gRhoH9vSgUcZzQbidkeWG3EAPeOrQfAonA9Tz8wGdoKLBlHQRU35IJIVBa02q16HQ61Ecvs2zNz7dIkgStz+ZiGDS5GSDScSjynDhepp0k5HnGxo0XWVBrAlSpuNSGasStZeK4TTtuo3RJknQsgF4VeyQ7jktjbpZvvj7AwsICUjo2AcPYJZs2cudddzIyMtKXqb9lKAgD/CCk0ZyzoKR08TwPIVc4NdsEgv37v+DwTz+yZes2brzxJmrDNVzXJcszZmemieOYTZs24ZguXA0gjA5cSRhFNJoNq50oCrqHdKOW05hcx+XbQweZOHaUxx5/At/3yc2LACVSCKIoZPPIpXjVv++6gTbXuN2x+1MURWitbNmE6L45dOkvrV5CP7SnDLNYGpEb12a0W16J67mEYfX0NidWvw6FQZUw8LsnRF2S5Qqj555jVwoOHPiR6VOnePChXThK2oVSn861F9wkYUGuVkM9O+tA4DgCXwoKZQKadzHTVaaEpRW50YyW2gJKs4wjR35hanKKzZs3s3XbNnx/A/3svM9DK8082mv9XvmUKjF/hs2F+Xn27NnD5599zujoKE8+9RTbt1/XV9RrArTSzp7Leu66YJeWFpmdmaVSrVCv16lWq31LdsEA/W//2SD/awB/tj8AI0OXYco8pfUAAAAASUVORK5CYII=" id="image64589152a8" transform="scale(1 -1) translate(0 -21.6)" x="125.4" y="-200.4" width="21.6" height="21.6"/>
+   </g>
+   <g id="text_12">
+    <!-- 65.3 -->
+    <g style="fill: #102b46" transform="translate(170.607265 234.419672) scale(0.165 -0.165)">
+     <defs>
+      <path id="ManropeREADME-Bold-222" d="M 1818 -96 
+Q 1466 -96 1160 48 
+Q 854 192 635 448 
+Q 416 704 320 1043 
+L 1110 1254 
+Q 1155 1082 1268 955 
+Q 1382 829 1534 760 
+Q 1686 691 1846 691 
+Q 2058 691 2232 793 
+Q 2406 896 2510 1069 
+Q 2614 1242 2614 1453 
+Q 2614 1664 2510 1837 
+Q 2406 2010 2230 2112 
+Q 2054 2214 1846 2214 
+Q 1594 2214 1429 2124 
+Q 1264 2035 1181 1946 
+L 483 2163 
+L 624 4608 
+L 3133 4608 
+L 3133 3840 
+L 1069 3840 
+L 1366 4118 
+L 1267 2480 
+L 1123 2659 
+Q 1299 2810 1528 2882 
+Q 1757 2954 1965 2954 
+Q 2397 2954 2729 2758 
+Q 3062 2563 3251 2225 
+Q 3440 1888 3440 1453 
+Q 3440 1018 3214 667 
+Q 2989 317 2619 110 
+Q 2250 -96 1818 -96 
+z
+" transform="scale(0.015625)"/>
+      <path id="ManropeREADME-Bold-220" d="M 1779 -83 
+Q 1434 -83 1123 53 
+Q 813 189 584 438 
+Q 355 688 256 1027 
+L 1053 1242 
+Q 1123 976 1329 832 
+Q 1536 688 1779 688 
+Q 1990 691 2161 790 
+Q 2333 890 2433 1062 
+Q 2534 1235 2534 1446 
+Q 2534 1766 2321 1988 
+Q 2109 2211 1776 2211 
+Q 1677 2211 1582 2182 
+Q 1488 2154 1398 2106 
+L 1027 2752 
+L 2534 4022 
+L 2598 3834 
+L 435 3834 
+L 435 4608 
+L 3290 4608 
+L 3290 3834 
+L 2096 2685 
+L 2090 2922 
+Q 2496 2874 2782 2664 
+Q 3069 2454 3219 2134 
+Q 3370 1814 3370 1446 
+Q 3370 1011 3152 665 
+Q 2934 320 2572 118 
+Q 2211 -83 1779 -83 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#ManropeREADME-Bold-223"/>
+     <use xlink:href="#ManropeREADME-Bold-222" transform="translate(62.203125 0)"/>
+     <use xlink:href="#ManropeREADME-Bold-249" transform="translate(120.953125 0)"/>
+     <use xlink:href="#ManropeREADME-Bold-220" transform="translate(152.109375 0)"/>
+    </g>
+   </g>
+   <g id="AnnotationBbox_3">
+    <g id="patch_13">
+     <path d="M 187.995429 216.489352 
+C 191.294555 216.489352 194.459002 215.178595 196.791837 212.845761 
+C 199.124672 210.512926 200.435429 207.348479 200.435429 204.049352 
+C 200.435429 200.750226 199.124672 197.585779 196.791837 195.252944 
+C 194.459002 192.920109 191.294555 191.609352 187.995429 191.609352 
+C 184.696302 191.609352 181.531855 192.920109 179.19902 195.252944 
+C 176.866185 197.585779 175.555429 200.750226 175.555429 204.049352 
+C 175.555429 207.348479 176.866185 210.512926 179.19902 212.845761 
+C 181.531855 215.178595 184.696302 216.489352 187.995429 216.489352 
+z
+" style="fill: #ffffff; stroke: #dce5ed; stroke-width: 0.6; stroke-linejoin: miter"/>
+    </g>
+    <image xlink:href="data:image/png;base64,
+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" id="imagec1e720f261" transform="scale(1 -1) translate(0 -21.6)" x="177" y="-193.2" width="22.2" height="21.6"/>
+   </g>
+   <g id="text_13">
+    <!-- 58.8 -->
+    <g style="fill: #102b46" transform="translate(222.09227 244.401502) scale(0.165 -0.165)">
+     <use xlink:href="#ManropeREADME-Bold-222"/>
+     <use xlink:href="#ManropeREADME-Bold-225" transform="translate(58.75 0)"/>
+     <use xlink:href="#ManropeREADME-Bold-249" transform="translate(120.5 0)"/>
+     <use xlink:href="#ManropeREADME-Bold-225" transform="translate(151.65625 0)"/>
+    </g>
+   </g>
+   <g id="AnnotationBbox_4">
+    <g id="patch_14">
+     <path d="M 239.698286 226.471182 
+C 242.997412 226.471182 246.161859 225.160425 248.494694 222.82759 
+C 250.827529 220.494756 252.138286 217.330308 252.138286 214.031182 
+C 252.138286 210.732055 250.827529 207.567608 248.494694 205.234774 
+C 246.161859 202.901939 242.997412 201.591182 239.698286 201.591182 
+C 236.399159 201.591182 233.234712 202.901939 230.901877 205.234774 
+C 228.569043 207.567608 227.258286 210.732055 227.258286 214.031182 
+C 227.258286 217.330308 228.569043 220.494756 230.901877 222.82759 
+C 233.234712 225.160425 236.399159 226.471182 239.698286 226.471182 
+z
+" style="fill: #ffffff; stroke: #dce5ed; stroke-width: 0.6; stroke-linejoin: miter"/>
+    </g>
+    <image xlink:href="data:image/png;base64,
+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" id="image551119ef2b" transform="scale(1 -1) translate(0 -22.2)" x="228.6" y="-202.8" width="22.2" height="22.2"/>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_15">
+    <path d="M 327.744 342.72 
+L 544.896 342.72 
+L 544.896 166.1184 
+L 327.744 166.1184 
+L 327.744 342.72 
+z
+" style="fill: none"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_5">
+     <g id="line2d_15"/>
+     <g id="text_14">
+      <!-- ALIVE -->
+      <g style="fill: #008a79" transform="translate(346.177527 361.5272) scale(0.092 -0.092)">
+       <use xlink:href="#ManropeREADME-Bold-1"/>
+       <use xlink:href="#ManropeREADME-Bold-4c" transform="translate(67.703125 0)"/>
+       <use xlink:href="#ManropeREADME-Bold-3d" transform="translate(121.40625 0)"/>
+       <use xlink:href="#ManropeREADME-Bold-95" transform="translate(150.203125 0)"/>
+       <use xlink:href="#ManropeREADME-Bold-23" transform="translate(214.90625 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_16"/>
+     <g id="text_15">
+      <!-- JoyAI -->
+      <g transform="translate(399.086446 361.5272) scale(0.092 -0.092)">
+       <use xlink:href="#ManropeREADME-Medium-48"/>
+       <use xlink:href="#ManropeREADME-Medium-101" transform="translate(47.59375 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-145" transform="translate(105.640625 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-1" transform="translate(157.9375 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-3d" transform="translate(222.53125 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_17"/>
+     <g id="text_16">
+      <!-- AURA -->
+      <g transform="translate(450.117991 361.5272) scale(0.092 -0.092)">
+       <use xlink:href="#ManropeREADME-Medium-1"/>
+       <use xlink:href="#ManropeREADME-Medium-82" transform="translate(62.59375 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-72" transform="translate(133.390625 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-1" transform="translate(197.4375 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_18"/>
+     <g id="text_17">
+      <!-- VideoChat3 -->
+      <g transform="translate(488.572129 361.5272) scale(0.092 -0.092)">
+       <use xlink:href="#ManropeREADME-Medium-95"/>
+       <use xlink:href="#ManropeREADME-Medium-e5" transform="translate(59.59375 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-c6" transform="translate(84.5 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-ca" transform="translate(144.546875 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-101" transform="translate(203.59375 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-19" transform="translate(263.640625 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-e2" transform="translate(335.9375 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-a8" transform="translate(396.390625 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-126" transform="translate(452.640625 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-220" transform="translate(493.796875 0)"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_6">
+     <g id="line2d_19">
+      <path d="M 327.744 342.72 
+L 544.896 342.72 
+" clip-path="url(#p076318e78e)" style="fill: none; stroke: #e7edf3; stroke-width: 0.65; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_20"/>
+     <g id="text_18">
+      <!-- 0 -->
+      <g style="fill: #728396" transform="translate(313.7365 346.984) scale(0.08 -0.08)">
+       <use xlink:href="#ManropeREADME-Medium-21d"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_21">
+      <path d="M 327.744 312.006678 
+L 544.896 312.006678 
+" clip-path="url(#p076318e78e)" style="fill: none; stroke: #e7edf3; stroke-width: 0.65; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_22"/>
+     <g id="text_19">
+      <!-- 20 -->
+      <g style="fill: #728396" transform="translate(309.109 316.270678) scale(0.08 -0.08)">
+       <use xlink:href="#ManropeREADME-Medium-21f"/>
+       <use xlink:href="#ManropeREADME-Medium-21d" transform="translate(57.84375 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_23">
+      <path d="M 327.744 281.293357 
+L 544.896 281.293357 
+" clip-path="url(#p076318e78e)" style="fill: none; stroke: #e7edf3; stroke-width: 0.65; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_24"/>
+     <g id="text_20">
+      <!-- 40 -->
+      <g style="fill: #728396" transform="translate(308.969 285.557357) scale(0.08 -0.08)">
+       <use xlink:href="#ManropeREADME-Medium-221"/>
+       <use xlink:href="#ManropeREADME-Medium-21d" transform="translate(59.59375 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_25">
+      <path d="M 327.744 250.580035 
+L 544.896 250.580035 
+" clip-path="url(#p076318e78e)" style="fill: none; stroke: #e7edf3; stroke-width: 0.65; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_26"/>
+     <g id="text_21">
+      <!-- 60 -->
+      <g style="fill: #728396" transform="translate(308.769 254.844035) scale(0.08 -0.08)">
+       <use xlink:href="#ManropeREADME-Medium-223"/>
+       <use xlink:href="#ManropeREADME-Medium-21d" transform="translate(62.09375 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_27">
+      <path d="M 327.744 219.866713 
+L 544.896 219.866713 
+" clip-path="url(#p076318e78e)" style="fill: none; stroke: #e7edf3; stroke-width: 0.65; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_28"/>
+     <g id="text_22">
+      <!-- 80 -->
+      <g style="fill: #728396" transform="translate(309.009 224.130713) scale(0.08 -0.08)">
+       <use xlink:href="#ManropeREADME-Medium-225"/>
+       <use xlink:href="#ManropeREADME-Medium-21d" transform="translate(59.09375 0)"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="patch_16">
+    <path d="M 342.737829 342.72 
+L 374.7936 342.72 
+L 374.7936 226.009377 
+L 342.737829 226.009377 
+z
+" clip-path="url(#p076318e78e)" style="fill: #008a79"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 394.440686 342.72 
+L 426.496457 342.72 
+L 426.496457 239.216106 
+L 394.440686 239.216106 
+z
+" clip-path="url(#p076318e78e)" style="fill: #ca984f"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 446.143543 342.72 
+L 478.199314 342.72 
+L 478.199314 230.462809 
+L 446.143543 230.462809 
+z
+" clip-path="url(#p076318e78e)" style="fill: #9372ba"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 497.8464 342.72 
+L 529.902171 342.72 
+L 529.902171 237.21974 
+L 497.8464 237.21974 
+z
+" clip-path="url(#p076318e78e)" style="fill: #4f91c1"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 327.744 342.72 
+L 544.896 342.72 
+" style="fill: none; stroke: #b9c9d8; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_23">
+    <!-- 76.0 -->
+    <g style="fill: #008a79" transform="translate(341.122316 217.988045) scale(0.165 -0.165)">
+     <defs>
+      <path id="ManropeREADME-Bold-224" d="M 682 0 
+L 2246 3834 
+L 256 3834 
+L 256 4608 
+L 3130 4608 
+L 3130 3834 
+L 1568 0 
+L 682 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#ManropeREADME-Bold-224"/>
+     <use xlink:href="#ManropeREADME-Bold-223" transform="translate(53.90625 0)"/>
+     <use xlink:href="#ManropeREADME-Bold-249" transform="translate(116.109375 0)"/>
+     <use xlink:href="#ManropeREADME-Bold-21d" transform="translate(147.265625 0)"/>
+    </g>
+   </g>
+   <g id="AnnotationBbox_5">
+    <g id="patch_21">
+     <path d="M 358.765714 200.057725 
+C 362.064841 200.057725 365.229288 198.746968 367.562123 196.414134 
+C 369.894957 194.081299 371.205714 190.916852 371.205714 187.617725 
+C 371.205714 184.318599 369.894957 181.154152 367.562123 178.821317 
+C 365.229288 176.488482 362.064841 175.177725 358.765714 175.177725 
+C 355.466588 175.177725 352.302141 176.488482 349.969306 178.821317 
+C 347.636471 181.154152 346.325714 184.318599 346.325714 187.617725 
+C 346.325714 190.916852 347.636471 194.081299 349.969306 196.414134 
+C 352.302141 198.746968 355.466588 200.057725 358.765714 200.057725 
+z
+" style="fill: #ffffff; stroke: #dce5ed; stroke-width: 0.6; stroke-linejoin: miter"/>
+    </g>
+    <image xlink:href="data:image/png;base64,
+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" id="image191d26108e" transform="scale(1 -1) translate(0 -19.2)" x="348" y="-178.2" width="21.6" height="19.2"/>
+   </g>
+   <g id="text_24">
+    <!-- 67.4 -->
+    <g style="fill: #102b46" transform="translate(393.339509 231.194774) scale(0.165 -0.165)">
+     <defs>
+      <path id="ManropeREADME-Bold-221" d="M 2342 0 
+L 2342 739 
+L 320 739 
+L 320 1507 
+L 1782 4608 
+L 2723 4608 
+L 1261 1507 
+L 2342 1507 
+L 2342 2682 
+L 3174 2682 
+L 3174 1507 
+L 3597 1507 
+L 3597 739 
+L 3174 739 
+L 3174 0 
+L 2342 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#ManropeREADME-Bold-223"/>
+     <use xlink:href="#ManropeREADME-Bold-224" transform="translate(62.203125 0)"/>
+     <use xlink:href="#ManropeREADME-Bold-249" transform="translate(115.265625 0)"/>
+     <use xlink:href="#ManropeREADME-Bold-221" transform="translate(146.421875 0)"/>
+    </g>
+   </g>
+   <g id="AnnotationBbox_6">
+    <g id="patch_22">
+     <path d="M 410.468571 213.264454 
+C 413.767698 213.264454 416.932145 211.953697 419.26498 209.620862 
+C 421.597815 207.288027 422.908571 204.12358 422.908571 200.824454 
+C 422.908571 197.525327 421.597815 194.36088 419.26498 192.028045 
+C 416.932145 189.69521 413.767698 188.384454 410.468571 188.384454 
+C 407.169445 188.384454 404.004998 189.69521 401.672163 192.028045 
+C 399.339328 194.36088 398.028571 197.525327 398.028571 200.824454 
+C 398.028571 204.12358 399.339328 207.288027 401.672163 209.620862 
+C 404.004998 211.953697 407.169445 213.264454 410.468571 213.264454 
+z
+" style="fill: #ffffff; stroke: #dce5ed; stroke-width: 0.6; stroke-linejoin: miter"/>
+    </g>
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAACQAAAAlCAYAAAAqXEs9AAAFPUlEQVR4nOVYWW8bVRT+7p0Z7wtJ6zhJpba0AtQWKqA8wzMqD0gtFYg3HhCi4okH/gCoSLwgfkBVFXhooWoRKosKEggoS5cgkpatCy00ie04HnvGY89y70X32IlCIU5qAwriJKOJ5HPP+fx9Z7kKU0oprCHjWGPGscaMY40Zxxozjv8cIKUAIRb/VlEIFQR/9tM+f/CL/tpPyk7MfgEpnatchnPoIKTnIZycRP2VlxF8OwHVBeG++TqCn39CcGEK7ltHoKREePEC7AMvwZ84TyCk48B94zBEdY5i9g1IG8vl0P7yCzSPH4OxYQMB8z46BdVsovXpJ2i+fRRmYQTG2CjcQwcRnPkGxvg4IAW8d45DNl14756Af/YMWDwODAKIMQaWTCKzdx+xohkximMkhwpDtD8+hcy+x8GGhsDXjyD58G44hw+BJVMwN20CwhDRzAzap0/TZyyVBuuRz8RqTCnIWo0C1V97FeH3F6lG6o4DiAiiZgO6ZqSEuWUrjEwGrQ/eRzD5HUS5guDrrxDf9QAY53QOhrEsKLaa1aGiCHNPPwVRKiH9xJNglkUBNYD2558hvDCF4skPwUwDpT2PQtZtxHbcjejqFUi3CWvbNjrDCwXkn38BPJcj5gdiiA8NQ8zMIvrxB4BppRW9Zb0Ovn59x8+KIbX7EXjvncTQiweIpej6NWSfeRY8l+/4GEbPVCsCUlou20Zs506Y4+PEipZnIXj83vvA02nIahVKSfB0BmL6BppHj8C68y7w4XUIp6YAznRBIrbjHrB8F1y/DCnXBWMcRnGUWji8cplqx9x6B5hlApGAdB2odosKPfHgQwinJsFSKQIiyqXO7DF4p8Z6AFpVDS01zZC0a4DUMg6B3SQBMVqbh2q3YY6OAfzWlsEtA1pq+mQURTAMTkCIBIMjCELEYtayhfuP7jIhJBynCd8P4XkepJBoNr2+462uy5YxTYBpGqjXAzQaLkzTgtNwYcUs9GsDMxRFAul0kopeCIFIKlixRF9yDcyQtnjcokcDc9wW4pkcTCtG9dQPpoEZYnrXMYZ8LgPxyxXUThyDO3EOrOdO75MhtaQBb5Zg4TMpJRV0u9WGkAIql4PrOKjXGkjn0jC6Y2G1EvZseyEEfD+AaZqwLHMxqD6iu8vz2tRRQRCQL8DAaCJzcKWQSMSRzWWQSMQWmRyIId8PUCnPIRICw8O3IZ/PUVLf96mrWi2/Wyuqk4xulxKMq0U/aSvIXBqpVGJwQJZlIZFMYr5aRaVcRSwWo0S27dBA1An0IO6A6jAQ+gHq9jxarRb5cM6RTCVRKKzD2NgoxewFbAVABrKZLNyGg2bLQ9P19MYgybSE1EYkeEf1UqmEX69fQ6PR6HyZeALcMFCtVjF94zf6QsXiSP+AAIZ4IoZUOoOG66Dd9hGPJygwBaVLkV5XnBJOnD+LjRs34/YtW5FJZ2lAGvpSBkXy6bMrzYIVd5lSCg2nhbptI5vNEpCORHwRlH5VKmUErTZG9ELtdp8+q9Pr/WYYJgFMJgeQbMEy6ThSySIMg1F3haGE1EOsWzcG13LNwp63sXHzZvLRtwL9TTV7+llYvlLfEvjyY2BFQIwKVwft6KN3l54tkZCQOoPq7LP56hxmZ2dgWia4oQEp6k4NtFKZQ6FQwGhxdOXprfowKSU9QkgVRkKFoVARvSMVBEL5QUTP1avX1P79z6ld9+9Se/c8ps6eOaeiKKKzy9lA96GlRmR1O07/6F/d9tPT07h86RLy+Ty279iOVCrVs4b+NkD/4382/Mu25gD9DmGUF+JGvpSdAAAAAElFTkSuQmCC" id="image48820a0875" transform="scale(1 -1) translate(0 -22.2)" x="399.6" y="-189.6" width="21.6" height="22.2"/>
+   </g>
+   <g id="text_25">
+    <!-- 73.1 -->
+    <g style="fill: #102b46" transform="translate(447.625647 222.441477) scale(0.165 -0.165)">
+     <defs>
+      <path id="ManropeREADME-Bold-21e" d="M 1248 0 
+L 1248 3712 
+L 384 3184 
+L 384 4090 
+L 1248 4608 
+L 2086 4608 
+L 2086 0 
+L 1248 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#ManropeREADME-Bold-224"/>
+     <use xlink:href="#ManropeREADME-Bold-220" transform="translate(53.90625 0)"/>
+     <use xlink:href="#ManropeREADME-Bold-249" transform="translate(112.5625 0)"/>
+     <use xlink:href="#ManropeREADME-Bold-21e" transform="translate(131.71875 0)"/>
+    </g>
+   </g>
+   <g id="AnnotationBbox_7">
+    <g id="patch_23">
+     <path d="M 462.171429 204.511157 
+C 465.470555 204.511157 468.635002 203.2004 470.967837 200.867565 
+C 473.300672 198.53473 474.611429 195.370283 474.611429 192.071157 
+C 474.611429 188.77203 473.300672 185.607583 470.967837 183.274749 
+C 468.635002 180.941914 465.470555 179.631157 462.171429 179.631157 
+C 458.872302 179.631157 455.707855 180.941914 453.37502 183.274749 
+C 451.042185 185.607583 449.731429 188.77203 449.731429 192.071157 
+C 449.731429 195.370283 451.042185 198.53473 453.37502 200.867565 
+C 455.707855 203.2004 458.872302 204.511157 462.171429 204.511157 
+z
+" style="fill: #ffffff; stroke: #dce5ed; stroke-width: 0.6; stroke-linejoin: miter"/>
+    </g>
+    <image xlink:href="data:image/png;base64,
+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" id="image2a97548edc" transform="scale(1 -1) translate(0 -21.6)" x="451.2" y="-181.2" width="22.2" height="21.6"/>
+   </g>
+   <g id="text_26">
+    <!-- 68.7 -->
+    <g style="fill: #102b46" transform="translate(496.630497 229.198408) scale(0.165 -0.165)">
+     <use xlink:href="#ManropeREADME-Bold-223"/>
+     <use xlink:href="#ManropeREADME-Bold-225" transform="translate(62.203125 0)"/>
+     <use xlink:href="#ManropeREADME-Bold-249" transform="translate(123.953125 0)"/>
+     <use xlink:href="#ManropeREADME-Bold-224" transform="translate(155.109375 0)"/>
+    </g>
+   </g>
+   <g id="AnnotationBbox_8">
+    <g id="patch_24">
+     <path d="M 513.874286 211.268088 
+C 517.173412 211.268088 520.337859 209.957331 522.670694 207.624496 
+C 525.003529 205.291661 526.314286 202.127214 526.314286 198.828088 
+C 526.314286 195.528961 525.003529 192.364514 522.670694 190.031679 
+C 520.337859 187.698845 517.173412 186.388088 513.874286 186.388088 
+C 510.575159 186.388088 507.410712 187.698845 505.077877 190.031679 
+C 502.745043 192.364514 501.434286 195.528961 501.434286 198.828088 
+C 501.434286 202.127214 502.745043 205.291661 505.077877 207.624496 
+C 507.410712 209.957331 510.575159 211.268088 513.874286 211.268088 
+z
+" style="fill: #ffffff; stroke: #dce5ed; stroke-width: 0.6; stroke-linejoin: miter"/>
+    </g>
+    <image xlink:href="data:image/png;base64,
+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" id="imagebdb8ef0324" transform="scale(1 -1) translate(0 -22.2)" x="502.8" y="-187.8" width="22.2" height="22.2"/>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_25">
+    <path d="M 601.92 342.72 
+L 819.072 342.72 
+L 819.072 166.1184 
+L 601.92 166.1184 
+L 601.92 342.72 
+z
+" style="fill: none"/>
+   </g>
+   <g id="matplotlib.axis_5">
+    <g id="xtick_9">
+     <g id="line2d_29"/>
+     <g id="text_27">
+      <!-- ALIVE -->
+      <g style="fill: #008a79" transform="translate(620.353527 361.5272) scale(0.092 -0.092)">
+       <use xlink:href="#ManropeREADME-Bold-1"/>
+       <use xlink:href="#ManropeREADME-Bold-4c" transform="translate(67.703125 0)"/>
+       <use xlink:href="#ManropeREADME-Bold-3d" transform="translate(121.40625 0)"/>
+       <use xlink:href="#ManropeREADME-Bold-95" transform="translate(150.203125 0)"/>
+       <use xlink:href="#ManropeREADME-Bold-23" transform="translate(214.90625 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_30"/>
+     <g id="text_28">
+      <!-- JoyAI -->
+      <g transform="translate(673.262446 361.5272) scale(0.092 -0.092)">
+       <use xlink:href="#ManropeREADME-Medium-48"/>
+       <use xlink:href="#ManropeREADME-Medium-101" transform="translate(47.59375 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-145" transform="translate(105.640625 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-1" transform="translate(157.9375 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-3d" transform="translate(222.53125 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_31"/>
+     <g id="text_29">
+      <!-- AURA -->
+      <g transform="translate(724.293991 361.5272) scale(0.092 -0.092)">
+       <use xlink:href="#ManropeREADME-Medium-1"/>
+       <use xlink:href="#ManropeREADME-Medium-82" transform="translate(62.59375 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-72" transform="translate(133.390625 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-1" transform="translate(197.4375 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_32"/>
+     <g id="text_30">
+      <!-- VideoChat3 -->
+      <g transform="translate(762.748129 361.5272) scale(0.092 -0.092)">
+       <use xlink:href="#ManropeREADME-Medium-95"/>
+       <use xlink:href="#ManropeREADME-Medium-e5" transform="translate(59.59375 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-c6" transform="translate(84.5 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-ca" transform="translate(144.546875 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-101" transform="translate(203.59375 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-19" transform="translate(263.640625 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-e2" transform="translate(335.9375 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-a8" transform="translate(396.390625 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-126" transform="translate(452.640625 0)"/>
+       <use xlink:href="#ManropeREADME-Medium-220" transform="translate(493.796875 0)"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_6">
+    <g id="ytick_11">
+     <g id="line2d_33">
+      <path d="M 601.92 342.72 
+L 819.072 342.72 
+" clip-path="url(#p484e3ce43b)" style="fill: none; stroke: #e7edf3; stroke-width: 0.65; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_34"/>
+     <g id="text_31">
+      <!-- 0 -->
+      <g style="fill: #728396" transform="translate(587.9125 346.984) scale(0.08 -0.08)">
+       <use xlink:href="#ManropeREADME-Medium-21d"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_35">
+      <path d="M 601.92 312.006678 
+L 819.072 312.006678 
+" clip-path="url(#p484e3ce43b)" style="fill: none; stroke: #e7edf3; stroke-width: 0.65; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_36"/>
+     <g id="text_32">
+      <!-- 20 -->
+      <g style="fill: #728396" transform="translate(583.285 316.270678) scale(0.08 -0.08)">
+       <use xlink:href="#ManropeREADME-Medium-21f"/>
+       <use xlink:href="#ManropeREADME-Medium-21d" transform="translate(57.84375 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_37">
+      <path d="M 601.92 281.293357 
+L 819.072 281.293357 
+" clip-path="url(#p484e3ce43b)" style="fill: none; stroke: #e7edf3; stroke-width: 0.65; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_38"/>
+     <g id="text_33">
+      <!-- 40 -->
+      <g style="fill: #728396" transform="translate(583.145 285.557357) scale(0.08 -0.08)">
+       <use xlink:href="#ManropeREADME-Medium-221"/>
+       <use xlink:href="#ManropeREADME-Medium-21d" transform="translate(59.59375 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_39">
+      <path d="M 601.92 250.580035 
+L 819.072 250.580035 
+" clip-path="url(#p484e3ce43b)" style="fill: none; stroke: #e7edf3; stroke-width: 0.65; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_40"/>
+     <g id="text_34">
+      <!-- 60 -->
+      <g style="fill: #728396" transform="translate(582.945 254.844035) scale(0.08 -0.08)">
+       <use xlink:href="#ManropeREADME-Medium-223"/>
+       <use xlink:href="#ManropeREADME-Medium-21d" transform="translate(62.09375 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_41">
+      <path d="M 601.92 219.866713 
+L 819.072 219.866713 
+" clip-path="url(#p484e3ce43b)" style="fill: none; stroke: #e7edf3; stroke-width: 0.65; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_42"/>
+     <g id="text_35">
+      <!-- 80 -->
+      <g style="fill: #728396" transform="translate(583.185 224.130713) scale(0.08 -0.08)">
+       <use xlink:href="#ManropeREADME-Medium-225"/>
+       <use xlink:href="#ManropeREADME-Medium-21d" transform="translate(59.09375 0)"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="patch_26">
+    <path d="M 616.913829 342.72 
+L 648.9696 342.72 
+L 648.9696 263.47963 
+L 616.913829 263.47963 
+z
+" clip-path="url(#p484e3ce43b)" style="fill: #008a79"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 668.616686 342.72 
+L 700.672457 342.72 
+L 700.672457 298.492817 
+L 668.616686 298.492817 
+z
+" clip-path="url(#p484e3ce43b)" style="fill: #ca984f"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 720.319543 342.72 
+L 752.375314 342.72 
+L 752.375314 293.578685 
+L 720.319543 293.578685 
+z
+" clip-path="url(#p484e3ce43b)" style="fill: #9372ba"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 772.0224 342.72 
+L 804.078171 342.72 
+L 804.078171 284.978955 
+L 772.0224 284.978955 
+z
+" clip-path="url(#p484e3ce43b)" style="fill: #4f91c1"/>
+   </g>
+   <g id="patch_30">
+    <path d="M 601.92 342.72 
+L 819.072 342.72 
+" style="fill: none; stroke: #b9c9d8; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_36">
+    <!-- 51.6 -->
+    <g style="fill: #008a79" transform="translate(617.043706 255.458298) scale(0.165 -0.165)">
+     <use xlink:href="#ManropeREADME-Bold-222"/>
+     <use xlink:href="#ManropeREADME-Bold-21e" transform="translate(58.75 0)"/>
+     <use xlink:href="#ManropeREADME-Bold-249" transform="translate(99.34375 0)"/>
+     <use xlink:href="#ManropeREADME-Bold-223" transform="translate(130.5 0)"/>
+    </g>
+   </g>
+   <g id="AnnotationBbox_9">
+    <g id="patch_31">
+     <path d="M 632.941714 237.527978 
+C 636.240841 237.527978 639.405288 236.217221 641.738123 233.884386 
+C 644.070957 231.551551 645.381714 228.387104 645.381714 225.087978 
+C 645.381714 221.788851 644.070957 218.624404 641.738123 216.291569 
+C 639.405288 213.958735 636.240841 212.647978 632.941714 212.647978 
+C 629.642588 212.647978 626.478141 213.958735 624.145306 216.291569 
+C 621.812471 218.624404 620.501714 221.788851 620.501714 225.087978 
+C 620.501714 228.387104 621.812471 231.551551 624.145306 233.884386 
+C 626.478141 236.217221 629.642588 237.527978 632.941714 237.527978 
+z
+" style="fill: #ffffff; stroke: #dce5ed; stroke-width: 0.6; stroke-linejoin: miter"/>
+    </g>
+    <image xlink:href="data:image/png;base64,
+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" id="image9b7b233a0d" transform="scale(1 -1) translate(0 -19.2)" x="622.2" y="-215.4" width="21.6" height="19.2"/>
+   </g>
+   <g id="text_37">
+    <!-- 28.8 -->
+    <g style="fill: #102b46" transform="translate(666.935431 290.471485) scale(0.165 -0.165)">
+     <defs>
+      <path id="ManropeREADME-Bold-21f" d="M 320 6 
+L 320 720 
+L 2272 2458 
+Q 2496 2656 2585 2832 
+Q 2675 3008 2675 3165 
+Q 2675 3386 2582 3558 
+Q 2490 3731 2325 3830 
+Q 2160 3930 1939 3930 
+Q 1709 3930 1533 3824 
+Q 1357 3718 1259 3545 
+Q 1162 3373 1168 3171 
+L 323 3171 
+Q 323 3638 529 3982 
+Q 736 4326 1104 4515 
+Q 1472 4704 1955 4704 
+Q 2403 4704 2756 4507 
+Q 3110 4310 3315 3960 
+Q 3520 3610 3520 3152 
+Q 3520 2819 3427 2593 
+Q 3334 2368 3150 2177 
+Q 2966 1987 2698 1754 
+L 1376 589 
+L 1302 781 
+L 3520 781 
+L 3520 6 
+L 320 6 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#ManropeREADME-Bold-21f"/>
+     <use xlink:href="#ManropeREADME-Bold-225" transform="translate(60 0)"/>
+     <use xlink:href="#ManropeREADME-Bold-249" transform="translate(121.75 0)"/>
+     <use xlink:href="#ManropeREADME-Bold-225" transform="translate(152.90625 0)"/>
+    </g>
+   </g>
+   <g id="AnnotationBbox_10">
+    <g id="patch_32">
+     <path d="M 684.644571 272.541165 
+C 687.943698 272.541165 691.108145 271.230408 693.44098 268.897573 
+C 695.773815 266.564738 697.084571 263.400291 697.084571 260.101165 
+C 697.084571 256.802038 695.773815 253.637591 693.44098 251.304756 
+C 691.108145 248.971921 687.943698 247.661165 684.644571 247.661165 
+C 681.345445 247.661165 678.180998 248.971921 675.848163 251.304756 
+C 673.515328 253.637591 672.204571 256.802038 672.204571 260.101165 
+C 672.204571 263.400291 673.515328 266.564738 675.848163 268.897573 
+C 678.180998 271.230408 681.345445 272.541165 684.644571 272.541165 
+z
+" style="fill: #ffffff; stroke: #dce5ed; stroke-width: 0.6; stroke-linejoin: miter"/>
+    </g>
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAACQAAAAlCAYAAAAqXEs9AAAFKklEQVR4nN2Y628UVRjGf2du2730ssA2LRhioTVRjEFTgsYQjRE+G/8AozEB/hQTvxuiVj6CRj8ISpCAF6AgEQN+KBZoKZfd0hZou7fZmd2ZOeac7QUaWtquQuO7O5mdM2ff8+zzPu973lkhpZSsITNYY2awxsxgjZnBGjODNWbWE2dIWT8MQ59lFOlhYZqPzpsZf+K82aQWYnUMSbXW9DTe7+eQ1SrB8BCVYz8Q3B1FV4wowjvXTzA+RpC9g//nRQ0mvDlC5cejBKM5DSKqVPD6zxKVS9pnQyGTUUT5u2/xzp/Tzis/n8L77Vek7+NfvkTxiwMIjTykcOAzgqEh/R3v9GkqJ47red4vp3CPfD/PUCOAjJYWYtu34509rT8b6TTh+Dj4PpWjR4j17sBob8fc9BzW5s2UvjmMqa43dhKOjWk23ePHiO18HRFP8PhgLVNDQgikIRCWjSwUKB7so3r5EsKJIT2PqFTE7OysT44kzivbiSbG8c6cIbh1S7NTvfgHzovbMNra6mFWflcLSFsQ4v50nCg/TeK990k+36WHletg5Aalrw+R/OBDFVuKfZ8jy2Xs7m5qw0PIIECGIcIyCcdGNUtYiy+7PECAiMeRuRzB1cH5DBEG4eQDRDJZv2yKE9+9B7+/n/Qnn1I+fEiDa967H9HcPO9rkQxbFiCpMsR1adq1i7CnR4tVmOprEoKApjfexGhtRebzREjMTDu14et4J0/ivPoaBDVqIzd0OVBArK4tkEgsCmpZDIXZLLVr13RNUSGoXh1E2Db21q2a/iA/Te3mCLJYoPrXZcwNGUoHv8TZsRMMUa9RSjumSeqjj7ESmxddS6y0/ZBhSJDNanBmRwdigR50DcplteDtrd31QrkCWzGgh61eFyMMQ8yUF6lDUR+rh+ip72XVag3P8+fOMpKUS+6q/S07yx5nigDLMpmcKiBmNgSv4hFGkvmcesoMRZEk5tj4fpVqNaBYqmBZ1qrC1TBDymzbxLISWjdl18dOprBUFZeLbuj/LUOGYWCaJq0tKaLsbYqnTuAO/j1Tx58BoCiKcF2PQqFE6HuEQlC8/4BSvkgQhCv2t2TaR1Gks8e2Lc3Cwnvlskep7FL1fcJQLS4QqhAKA0NK4vE4La1JYjFn2ZpaElC5XOHexD2thw2ZdaRS9T1Lgczni5qZ2fqjj9nuUggMYWBaFk4sRkuLAmUvC9SSorbtusPp6Wkmxu9j27Yen5zMa1DK6oVYLaSKo9SNmoLnq7ajVEQYJr7vkcmkicVijW2ujmPRnGqmVCji+Z4ueEoXKjwK7KzNkhzUAkbv5hgYGKDiuvoHKNFHUpJOt7F7z7uk0+nVMwSCpngT8UQS98F9XFfVGBvbiT3yK9Unt1zmwoXz+tzT8wIdHZ0kEgkM0yCo1ZicnJxjtQFAYFmCZCqJW6lgOw627WiNKEDqpd6KhVzuDqlkkrfefkcXRsWiYs4QgnhTE+n0OmzHbhyQsmQqTizWqUMQhhFBGM1llJjRkWVbdG7cRDKZ0HNUVs4CUiwh1aYrH9mEVw3IUeLWgpZ677IiSRhF9YRS4rcM7ty+zcTEOC+9vA0zVPckQRgyNTVFqVSirbWNtnTbTEaKf7f9kOpBUPc+UgtW8ZRXTVqtxvr1GfRdCdlclq/6+rhyZYCuri3s3bePnu4t9XAvwlCD/ZBccD372KUgSXzPZ3BwkOHrQ2TaM/T29pJqTi2Z9g0BetjmvSwEqR6r5Zz4lT0VQP/bfz+MZw1gof0DZlunltruOisAAAAASUVORK5CYII=" id="image48e21cced9" transform="scale(1 -1) translate(0 -22.2)" x="673.8" y="-249" width="21.6" height="22.2"/>
+   </g>
+   <g id="text_38">
+    <!-- 32.0 -->
+    <g style="fill: #102b46" transform="translate(718.493913 285.557353) scale(0.165 -0.165)">
+     <use xlink:href="#ManropeREADME-Bold-220"/>
+     <use xlink:href="#ManropeREADME-Bold-21f" transform="translate(58.65625 0)"/>
+     <use xlink:href="#ManropeREADME-Bold-249" transform="translate(118.65625 0)"/>
+     <use xlink:href="#ManropeREADME-Bold-21d" transform="translate(149.8125 0)"/>
+    </g>
+   </g>
+   <g id="AnnotationBbox_11">
+    <g id="patch_33">
+     <path d="M 736.347429 267.627033 
+C 739.646555 267.627033 742.811002 266.316276 745.143837 263.983441 
+C 747.476672 261.650607 748.787429 258.48616 748.787429 255.187033 
+C 748.787429 251.887906 747.476672 248.723459 745.143837 246.390625 
+C 742.811002 244.05779 739.646555 242.747033 736.347429 242.747033 
+C 733.048302 242.747033 729.883855 244.05779 727.55102 246.390625 
+C 725.218185 248.723459 723.907429 251.887906 723.907429 255.187033 
+C 723.907429 258.48616 725.218185 261.650607 727.55102 263.983441 
+C 729.883855 266.316276 733.048302 267.627033 736.347429 267.627033 
+z
+" style="fill: #ffffff; stroke: #dce5ed; stroke-width: 0.6; stroke-linejoin: miter"/>
+    </g>
+    <image xlink:href="data:image/png;base64,
+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" id="image9f4f724b07" transform="scale(1 -1) translate(0 -22.2)" x="725.4" y="-244.2" width="22.2" height="22.2"/>
+   </g>
+   <g id="text_39">
+    <!-- 37.6 -->
+    <g style="fill: #102b46" transform="translate(771.13134 276.957623) scale(0.165 -0.165)">
+     <use xlink:href="#ManropeREADME-Bold-220"/>
+     <use xlink:href="#ManropeREADME-Bold-224" transform="translate(58.65625 0)"/>
+     <use xlink:href="#ManropeREADME-Bold-249" transform="translate(111.71875 0)"/>
+     <use xlink:href="#ManropeREADME-Bold-223" transform="translate(142.875 0)"/>
+    </g>
+   </g>
+   <g id="AnnotationBbox_12">
+    <g id="patch_34">
+     <path d="M 788.050286 259.027303 
+C 791.349412 259.027303 794.513859 257.716546 796.846694 255.383711 
+C 799.179529 253.050877 800.490286 249.88643 800.490286 246.587303 
+C 800.490286 243.288176 799.179529 240.123729 796.846694 237.790895 
+C 794.513859 235.45806 791.349412 234.147303 788.050286 234.147303 
+C 784.751159 234.147303 781.586712 235.45806 779.253877 237.790895 
+C 776.921043 240.123729 775.610286 243.288176 775.610286 246.587303 
+C 775.610286 249.88643 776.921043 253.050877 779.253877 255.383711 
+C 781.586712 257.716546 784.751159 259.027303 788.050286 259.027303 
+z
+" style="fill: #ffffff; stroke: #dce5ed; stroke-width: 0.6; stroke-linejoin: miter"/>
+    </g>
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAACUAAAAkCAYAAAAOwvOmAAAOKElEQVR4nKVYCXRUVZr+7n3v1as1VUkqlT1kA0ICAkJYwiogoAKiIDiC2NiLbbudccbp6e4Zdc4cz3FmznT32NLt2K0oDCBLi6JO224gkJAQEmQLdoAkhCQkJKkstb7t3jn3Fdptt6eHPv2q6pyqesv/ve///u//7yO4we0ZAD9xOtOTpl7IGMYQgolEouOpRIsIpekgRAHnOmd8kJtWJ2e8lXHeQgm5rLrlzuXLteG9e28sFrmRg1RVyoWFGg7Mo7J0s+p1jXP53Zmq1yU53CokRQaVKDhjMHUDelyHFk1aydF4OBmJ/84yzAYq04OSJDXE49rgXwXK7Xa7dC2xmDHcJ0m0BpQWlEwbSwMFmVA9KmSHDMlBobgAKgF6nIAxgFscpmYiGYkjOjCKgbZeM9zVf4lzfCzL8vY0f6C5v7/f+ItBeVQpO65b31adzg2z5swtazl9WuZuism3TQORKUAYfEEOfy6By0cw1MMweBlgjHJCQAihIBQwYjrOfXQK0cERqB5XItI/cpoz/qIky29pmhb7utjy1/3pVJT8hG7+Q2Ywa+MD33ssUFhUTJqPP4rS6eNBFQmEWsgZTxDIB2SFcC0GEh8GmCVukxNxr5wzcEZwqaEV8ZEYJiyaAjXN6eo51zb9akv382ZS9zsVujVpsMQfx6d//Iei0EzdMp7Iyc//1uM/+Of0ex/8Nmm72AqD6wgUZIDDROFNBJklAFUIGAeJDnIkoxwAB2ccnHMQiWKwfQA95ztROmMc0sdkILfCjVufqJCmrCrNl13ycwbjGxVFJP7PgFJVyckYX5eRmfW9Bx5+xLV09d2wGMPFlhb4gn5QWUawBPDncjAmQKQ2V4CgZAbFuPkUWaUAJ9zWVffZy0jLTkewNARvhoW8SsCbLaP6vnJULi3wE5n8OyFksdMpfz0oVVWJaaLKobq+f+vKO923rVkPIikwdRODgwNwed1Q3RTBMRQWT4mREGJfwRkA3BnEBlc4WULRRAlGwsBIbxiZRVlQ3ATZ5RSSk9sppirD3Y+swux5NX7T5D8F5Pw/AaWqEkxDUyn4D8ZNqCxa/41vwu3xpnRBGJhlgglG/ABRLaQ4IgDn4rs4DBB6MgFmcgRLCbxZJgzNhOJ0wp9F4Eq3NccZtxBw5GJSYBkIU0EprbBM/VmnLJOvgDJNJnzmTo8/sHrdA5tRUFIGwzTtwJRKNkA9roESU6gGzH4J7QBgnNg6EsCEqoQlMCB/ggKHi8LUNHgySeosxoiDuFCszsTOF3ahp6sLK9esFTDuZ5wv/wooSaJpjJEnps2cRectXQ7LEoBSFCiKA/ljihEbjkKLWyDXUydEHRvUceXEEOIDSVtHAqjYJ0zUF3KgcHII/e29MDSxH5AIQVApReOBs2hqOI6Hnvx7PPkvz6FqylSHbllPuhXheNdBMYstc7nd1avW3we3x2eLmAiWBGBZRuXkKTBjGoa64uAGhUSA+ICJhp2X8NGLp9DZPARTgw2KEWYzKGrq5rtKwbmGc+93YKQ7CaI70V4/gKMfHMXqezdgzpLl8KQFILLjcDjm6ZZ1iw0qNxeyafF7KqqqpMkzZsK0hDhSTNjZsSxMnl6NYCgH3S29iFyTYMaB5n0dGGoaRFB24vLJCNrqk7h20YSeTFWfaZjIq/JjzqYJGOgYQe2vWlH72uc4/Ot6TK2ejaV3rQGVJBiGgVkLF6O8osJhMrZG8EDDYbmAADWz598Cb5of3HZAkbqUnC1mISe/ELPmL0DfxR4MtHOc/W0vuuuu4r6ZFVhQUYju01fRtPssDv/3OZx4owPxQQOgQkdA+bxsLPjOBORXBtB55ioyA3m4fe09SAukp/TJLAQyg6hZuEiEmyvLch5lhjlNdTpCk6ZNF+T86cYBSVH4TdOqYcR1XLs0iua3LmFWYTZWV4/F1OIQQqqCBZk+LPb7Ea69xo++8jmsBBO4IEkE2WP9KJqaBUplhPv70Vxfi0TM7jB2tYiwU2bMhENRchkzb6aMo8rj8ckFY0psVlJS/UKxX6Ikg9f67J432DkAOabj1qoiZPk9qCoI8cJMP9yKjHumleNHd9aQ7uP9aGu4BiKLrpOyi77WUQx0D/NLl1pxpvkkdF0XPme3JGZaGFM2Fh6vxwGgkoKjwBfww+31plxaIOdcNC8bjaiYyFAYH75zABkFWRjuC2NcdjoKMr2QJYriUIDMrRqDxq4BtPeFMas0hPJgOjpODQi7SIlfvDjDhAWlJH9iDhSHIvzp+u2mpOJLC4iUUsaQTxngdbs9dpVdP+Yro4OkKDjTdALt7ReQW1GE6HAURRkemxkQAkWmWDltLHIzA9hx/CLOX7oKt0xhJIStMIBa9rRQOqMQRVPLwS0FHo8XqjjfNjVBAgOVJbjcbhHS+/veR1LCtPmxUYnfBJQQXGlvE8YHX9AHbpjwiAsKwyTEdnrB2uMrZmLYtPDM2w34vHsADtWFSL+EwU4J7U1ARzMQCzNYpoVjhz7ByfpaiH4lrMduCb+Xim1F0UQ8Zuc11c++kHfqu5goCREYGCL9o/a5CcOEaZmpCiWEWwyYUZKN//zGMnBFQX8iiViY4sTeME69E0bH8TBGekZgJHRuJg10tLWh/UKrfc1UIMmOn0zYU0xMpgRdI0NDiEUjcHq8YCnEhFBqBz3wxg7s2bYVPo8PPY3tkDlB90gCSc2EZQnHBxGniGliXF4QFQVZuByOInJ5CJHLw9fvj6SKiHIiBO5wqkhLz0w5rOCKEMTjUYyODDMKdAlQ5+KxuHmlo03Oysu3fUMAkijF8SOfYvtLW7Bo6XLUzJ0L1eXCsSNHsOfln+HaaALxeBIup2KnOOZIw4/fr8dnfQn86F+fQ05evrgzuL0e9Fy5AlPX8d6Bt3C88RjS0v0Iif3CMziHRAk629oQi0Z1ULRQVZGbNE3rP9vclBpFxJsAvT1deHv3DlROnIR1G+/H0NAQdr62FQuWLEEgvxhHL3QjEk3a1BN/CIcux3DkfCc2PfRdTJp6Mwb7+7F/zy4iSTI58Ot9OPTxh1h2xwqUl45HMDOErFC2rScRTDj76aZGaJp+1eFQmmkgy+wCUNdw5BBikVFQItlirD/0CSJDQ5g5Zy5efWkL0jMzkEwm8dFv3sO9D2zG8d4IDl7sxVXLgxPXTOz5+Bhm37LIDvTs959CVigEwzD5B++8zecvWoTmxhM4ffIkFi5eDKeqQuhYyJdSItKGY4c+FrKpKygwemhXF0xZInvPnz1rnjnRCFkRs5WBniudKCktQU93F97dvx/7du7Ahs2b0VBbB9PUseSeDdh3qgv/+Np7eH7bWzZ74yonYvf/bEdjfT22/eplrP2bDTh5osmu3Lm3LEJjQz1Up9P2qZHhIbu6ZdmB5rqjOH/mjCHL5M2LF2HZ5iQp9LfxWKzxnb27Zk+ZOev6XMShOl0YWzEBGx/8ljATUlBUjEf+7ilcudyB9Zs2o7pmrl1JmcEsVE6ahNbzLZg9fz6fUTOHCHMUbD30xN+ir7cHGx/8JioqKxEIBCBRyb4+pYTHYxGy9/VXRRaOud3KQdM0UqsZw2AjhJAtJ+rqZhw7+LE079ZlXHEopPajgxCVqThUIkkU23/5sq07wWT7hYu2KzPOeBv5nDTV1dodn4kljN0YOHZt3WqL3TB0tJw+JRjj/X29pLurS/Q58SHv7N6BpvpjpizTn8bjRlTgSTElUTFTvT06HP7fPa+/snLCTZPJottXIjI6Ygv2Sss5tF24gLTcACSx5hNMWqlG+sWoTv7A5Ox+JloWYfBkWQh5CtHZ0ivGIlJRWYUVa9dj/E1T0Nb6OV578QWYhr5HcUjv2sPuH3aUNIeDaJY1U3a69q29f1Pew0/9EKrLbS/Jm+tq8d1770bxzLEoqR4Lxgz4czgklcEyCJIRQIsApm67DojM4Uw3kV6ioSSvDL0fyNi5ZQfSg0E8+fSzWHjbCruonn7sYRz88IN2RVGWaJrW/gWWL9c2o7rOFYV+lkzG/uP9t/f/W9nY8Y7la9bBMA1MnHozbl99F958YycCwQAyS7Og6aPIK2NweITdy9DjQGLUSBmqlyAUzMK0ojvg7C3CCyefRzwRB8KDuNLRgVgkglde+AlqD3+akGX5SQBfAvoKU19sqkpDhsGeKSwuFYtRZc6SZZBlGdHhIfzw0e+gsa4Wd6y7E7OWLISSaQIZ/TzBh4jFDchUgV/NRY5rAtzJXPzuRCsO7NuFpsYGFJeWY9PDj2L6nLnYv2MbXv/FFi0WHf0nSul/aZph/llQKWDKGMMwn87Jzb/nwcee8Ny66i7i8/sRHR3B6z//GQ7sfgMBvx818xdi/MSJ8GX47QElOhJBz+UenD99Gi3nTtnsjBtfgVXr7sX8ZbcJ38LOX77E39y5PRyLjPxYodILcd2I3fADDrcq5Sd063GX07V+ye0rC1Zv2EjLJlTB6/Oh40IrPvnNu2iur0d/Xy8MXbdFL0kSfGl+FBYX46bp1ZhSPQNFxWUQZf5ZYwP2bduq1R853GoaxhZVUXbFNaHEv/BRUEaGyzsylFxhcb4pJzd36uwFt4Sqa+aR8spKZGXn2MdERkcRj0VtC3C63PD5A3A6ndB0Df29V3Gh5RwaPj1oNhw93D3Qf+2IItNXvT61LhxO6H/lQzO12DD0JZzzef40/8QxZWXFRSVl/ryiIhrMyobb57NZEn4UHRnBtb4+XO2+YnV1tA93tre3RUdHT4LwT1wu9dNYTOv7/+LdECixLViwgDQ01IZ0zSrjQDklqHSoapnT5c5VHI40SqnMLEvXteRQIp7oMUyjjXOcB3DJ61QvLl+RHLzRx4v/ByXKlwYlJvZUAAAAAElFTkSuQmCC" id="image485fdc16ef" transform="scale(1 -1) translate(0 -21.6)" x="777" y="-235.8" width="22.2" height="21.6"/>
+   </g>
+  </g>
+  <g id="text_40">
+   <!-- General streaming video understanding -->
+   <g style="fill: #102b46" transform="translate(30.24 46.694) scale(0.23 -0.23)">
+    <defs>
+     <path id="ManropeREADME-Bold-35" d="M 2358 -96 
+Q 1917 -96 1523 61 
+Q 1130 218 832 523 
+Q 534 829 363 1275 
+Q 192 1722 192 2304 
+Q 192 3062 480 3600 
+Q 768 4138 1259 4421 
+Q 1750 4704 2358 4704 
+Q 3229 4704 3733 4299 
+Q 4237 3894 4410 3162 
+L 3571 3037 
+Q 3443 3440 3152 3683 
+Q 2861 3926 2413 3930 
+Q 1962 3936 1661 3734 
+Q 1360 3533 1211 3165 
+Q 1062 2797 1062 2304 
+Q 1059 1811 1209 1449 
+Q 1360 1088 1661 886 
+Q 1962 685 2413 678 
+Q 2733 672 2985 790 
+Q 3238 909 3404 1158 
+Q 3571 1408 3635 1789 
+L 2864 1789 
+L 2864 2429 
+L 4509 2429 
+Q 4515 2381 4518 2278 
+Q 4522 2176 4522 2157 
+Q 4522 1501 4259 992 
+Q 3997 483 3512 193 
+Q 3027 -96 2358 -96 
+z
+" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Bold-ca" d="M 2035 -96 
+Q 1507 -96 1107 133 
+Q 707 362 481 763 
+Q 256 1165 256 1686 
+Q 256 2253 477 2672 
+Q 698 3091 1088 3321 
+Q 1478 3552 1990 3552 
+Q 2528 3552 2907 3299 
+Q 3286 3046 3468 2585 
+Q 3651 2125 3603 1498 
+L 2787 1498 
+L 2787 1798 
+Q 2787 2346 2604 2592 
+Q 2422 2838 2026 2838 
+Q 1565 2838 1345 2555 
+Q 1126 2272 1126 1728 
+Q 1126 1222 1345 947 
+Q 1565 672 1990 672 
+Q 2259 672 2452 792 
+Q 2646 912 2752 1136 
+L 3568 896 
+Q 3373 426 2955 165 
+Q 2538 -96 2035 -96 
+z
+M 870 1498 
+L 870 2115 
+L 3203 2115 
+L 3203 1498 
+L 870 1498 
+z
+" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Bold-fb" d="M 2819 0 
+L 2819 1648 
+Q 2819 1789 2801 1979 
+Q 2784 2170 2710 2355 
+Q 2637 2541 2480 2662 
+Q 2323 2784 2045 2784 
+Q 1917 2784 1781 2742 
+Q 1645 2701 1531 2592 
+Q 1418 2483 1346 2283 
+Q 1274 2083 1274 1763 
+L 797 1981 
+Q 797 2406 965 2764 
+Q 1133 3123 1467 3339 
+Q 1802 3555 2298 3555 
+Q 2691 3555 2945 3424 
+Q 3200 3293 3344 3086 
+Q 3488 2880 3553 2654 
+Q 3619 2429 3636 2233 
+Q 3654 2038 3654 1936 
+L 3654 0 
+L 2819 0 
+z
+M 442 0 
+L 442 3456 
+L 1174 3456 
+L 1174 2346 
+L 1274 2346 
+L 1274 0 
+L 442 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Bold-11b" d="M 448 0 
+L 448 3456 
+L 1174 3456 
+L 1174 2611 
+L 1091 2720 
+Q 1155 2899 1265 3043 
+Q 1376 3187 1533 3283 
+Q 1658 3363 1808 3409 
+Q 1958 3456 2118 3467 
+Q 2278 3478 2435 3456 
+L 2435 2688 
+Q 2285 2736 2091 2720 
+Q 1898 2704 1738 2621 
+Q 1584 2541 1480 2416 
+Q 1376 2291 1325 2126 
+Q 1274 1962 1274 1760 
+L 1274 0 
+L 448 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Bold-a8" d="M 1411 -96 
+Q 1037 -96 779 46 
+Q 522 189 389 427 
+Q 256 666 256 950 
+Q 256 1197 334 1395 
+Q 413 1594 582 1742 
+Q 752 1891 1027 1990 
+Q 1229 2058 1501 2112 
+Q 1773 2166 2104 2214 
+Q 2435 2262 2819 2320 
+L 2522 2157 
+Q 2525 2490 2369 2646 
+Q 2214 2803 1846 2803 
+Q 1635 2803 1422 2700 
+Q 1210 2598 1126 2349 
+L 378 2586 
+Q 509 3018 870 3285 
+Q 1232 3552 1850 3552 
+Q 2307 3552 2659 3406 
+Q 3011 3261 3190 2918 
+Q 3286 2730 3305 2539 
+Q 3325 2349 3325 2115 
+L 3325 0 
+L 2605 0 
+L 2605 730 
+L 2717 595 
+Q 2474 234 2171 69 
+Q 1869 -96 1411 -96 
+z
+M 1581 554 
+Q 1834 554 2008 643 
+Q 2182 733 2286 853 
+Q 2390 973 2426 1072 
+Q 2490 1216 2501 1405 
+Q 2512 1594 2512 1715 
+L 2758 1645 
+Q 2387 1587 2142 1545 
+Q 1898 1504 1736 1467 
+Q 1574 1430 1450 1386 
+Q 1318 1338 1232 1277 
+Q 1146 1216 1102 1137 
+Q 1059 1059 1059 963 
+Q 1059 838 1120 747 
+Q 1181 656 1297 605 
+Q 1414 554 1581 554 
+z
+" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Bold-f5" d="M 512 0 
+L 512 4704 
+L 1331 4704 
+L 1331 0 
+L 512 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Bold-287" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Bold-11f" d="M 1792 -96 
+Q 1142 -96 742 197 
+Q 342 490 256 1021 
+L 1094 1149 
+Q 1152 899 1350 756 
+Q 1549 614 1850 614 
+Q 2106 614 2246 713 
+Q 2387 813 2387 992 
+Q 2387 1101 2332 1168 
+Q 2278 1235 2096 1299 
+Q 1914 1363 1530 1466 
+Q 1104 1578 849 1710 
+Q 595 1843 483 2028 
+Q 371 2214 371 2477 
+Q 371 2803 539 3046 
+Q 707 3290 1014 3421 
+Q 1322 3552 1738 3552 
+Q 2144 3552 2456 3427 
+Q 2768 3302 2961 3072 
+Q 3155 2842 3197 2531 
+L 2358 2378 
+Q 2333 2586 2176 2706 
+Q 2019 2826 1754 2842 
+Q 1498 2858 1342 2770 
+Q 1187 2682 1187 2518 
+Q 1187 2422 1251 2356 
+Q 1315 2291 1515 2225 
+Q 1715 2160 2118 2058 
+Q 2522 1952 2765 1816 
+Q 3008 1680 3117 1491 
+Q 3226 1302 3226 1034 
+Q 3226 506 2845 205 
+Q 2464 -96 1792 -96 
+z
+" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Bold-126" d="M 2499 0 
+Q 2147 -67 1811 -57 
+Q 1475 -48 1211 64 
+Q 947 176 810 426 
+Q 685 659 678 897 
+Q 672 1136 672 1440 
+L 672 4416 
+L 1491 4416 
+L 1491 1485 
+Q 1491 1283 1496 1123 
+Q 1501 963 1562 864 
+Q 1677 678 1929 659 
+Q 2182 640 2499 685 
+L 2499 0 
+z
+M 64 2816 
+L 64 3456 
+L 2499 3456 
+L 2499 2816 
+L 64 2816 
+z
+" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Bold-fa" d="M 4605 0 
+L 4605 2070 
+Q 4605 2419 4435 2614 
+Q 4266 2810 3974 2810 
+Q 3789 2810 3648 2725 
+Q 3507 2640 3427 2481 
+Q 3347 2323 3347 2109 
+L 2992 2333 
+Q 2992 2691 3158 2963 
+Q 3325 3235 3606 3387 
+Q 3888 3539 4234 3539 
+Q 4816 3539 5120 3193 
+Q 5424 2848 5424 2282 
+L 5424 0 
+L 4605 0 
+z
+M 442 0 
+L 442 3456 
+L 1168 3456 
+L 1168 2346 
+L 1267 2346 
+L 1267 0 
+L 442 0 
+z
+M 2525 0 
+L 2528 2067 
+Q 2528 2416 2358 2613 
+Q 2189 2810 1894 2810 
+Q 1613 2810 1440 2616 
+Q 1267 2422 1267 2109 
+L 915 2352 
+Q 915 2691 1083 2960 
+Q 1251 3229 1536 3384 
+Q 1821 3539 2173 3539 
+Q 2570 3539 2830 3371 
+Q 3091 3203 3219 2916 
+Q 3347 2630 3347 2282 
+L 3347 0 
+L 2525 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Bold-e5" d="M 512 3958 
+L 512 4698 
+L 1331 4698 
+L 1331 3958 
+L 512 3958 
+z
+M 512 0 
+L 512 3456 
+L 1331 3456 
+L 1331 0 
+L 512 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Bold-dd" d="M 1914 -1632 
+Q 1622 -1632 1358 -1539 
+Q 1094 -1446 883 -1278 
+Q 672 -1110 538 -883 
+L 1299 -509 
+Q 1389 -682 1557 -766 
+Q 1725 -851 1920 -851 
+Q 2138 -851 2317 -777 
+Q 2496 -704 2600 -557 
+Q 2704 -410 2698 -189 
+L 2698 806 
+L 2800 806 
+L 2800 3456 
+L 3520 3456 
+L 3520 -202 
+Q 3520 -333 3509 -448 
+Q 3498 -563 3472 -678 
+Q 3389 -1005 3168 -1214 
+Q 2947 -1424 2624 -1528 
+Q 2301 -1632 1914 -1632 
+z
+M 1843 -96 
+Q 1363 -96 1008 144 
+Q 653 384 454 797 
+Q 256 1210 256 1728 
+Q 256 2256 456 2667 
+Q 656 3078 1021 3315 
+Q 1386 3552 1878 3552 
+Q 2371 3552 2707 3312 
+Q 3043 3072 3216 2659 
+Q 3389 2246 3389 1728 
+Q 3389 1210 3214 797 
+Q 3040 384 2696 144 
+Q 2352 -96 1843 -96 
+z
+M 1971 637 
+Q 2272 637 2454 774 
+Q 2637 912 2718 1158 
+Q 2800 1405 2800 1728 
+Q 2800 2054 2718 2300 
+Q 2637 2547 2461 2683 
+Q 2285 2819 2000 2819 
+Q 1699 2819 1505 2672 
+Q 1312 2525 1219 2277 
+Q 1126 2029 1126 1728 
+Q 1126 1424 1216 1176 
+Q 1306 928 1493 782 
+Q 1680 637 1971 637 
+z
+" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Bold-13e" d="M 1382 0 
+L 128 3456 
+L 950 3456 
+L 1795 1008 
+L 2637 3456 
+L 3459 3456 
+L 2205 0 
+L 1382 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Bold-c6" d="M 1843 -96 
+Q 1363 -96 1008 144 
+Q 653 384 454 797 
+Q 256 1210 256 1728 
+Q 256 2256 456 2667 
+Q 656 3078 1021 3315 
+Q 1386 3552 1878 3552 
+Q 2371 3552 2707 3312 
+Q 3043 3072 3216 2659 
+Q 3389 2246 3389 1728 
+Q 3389 1210 3214 797 
+Q 3040 384 2696 144 
+Q 2352 -96 1843 -96 
+z
+M 1971 637 
+Q 2272 637 2454 774 
+Q 2637 912 2718 1158 
+Q 2800 1405 2800 1728 
+Q 2800 2054 2718 2300 
+Q 2637 2547 2461 2683 
+Q 2285 2819 2000 2819 
+Q 1699 2819 1505 2672 
+Q 1312 2525 1219 2277 
+Q 1126 2029 1126 1728 
+Q 1126 1424 1216 1176 
+Q 1306 928 1493 782 
+Q 1680 637 1971 637 
+z
+M 2800 0 
+L 2800 2397 
+L 2701 2397 
+L 2701 4608 
+L 3526 4608 
+L 3526 0 
+L 2800 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Bold-101" d="M 1990 -96 
+Q 1469 -96 1078 137 
+Q 688 371 472 782 
+Q 256 1194 256 1728 
+Q 256 2269 477 2680 
+Q 698 3091 1088 3321 
+Q 1478 3552 1990 3552 
+Q 2512 3552 2902 3318 
+Q 3293 3085 3510 2673 
+Q 3728 2262 3728 1728 
+Q 3728 1190 3509 779 
+Q 3290 368 2898 136 
+Q 2506 -96 1990 -96 
+z
+M 1990 672 
+Q 2429 672 2645 968 
+Q 2861 1264 2861 1728 
+Q 2861 2211 2641 2497 
+Q 2422 2784 1990 2784 
+Q 1693 2784 1501 2649 
+Q 1309 2515 1217 2278 
+Q 1126 2042 1126 1728 
+Q 1126 1245 1345 958 
+Q 1565 672 1990 672 
+z
+" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Bold-12b" d="M 1738 -99 
+Q 1344 -99 1091 32 
+Q 838 163 692 369 
+Q 547 576 481 801 
+Q 416 1027 400 1222 
+Q 384 1418 384 1520 
+L 384 3456 
+L 1216 3456 
+L 1216 1808 
+Q 1216 1667 1233 1476 
+Q 1251 1286 1324 1100 
+Q 1398 915 1555 793 
+Q 1712 672 1990 672 
+Q 2122 672 2256 713 
+Q 2390 755 2505 864 
+Q 2621 973 2691 1174 
+Q 2762 1376 2762 1693 
+L 3242 1475 
+Q 3242 1050 3072 691 
+Q 2902 333 2569 117 
+Q 2237 -99 1738 -99 
+z
+M 2864 0 
+L 2864 1110 
+L 2762 1110 
+L 2762 3456 
+L 3590 3456 
+L 3590 0 
+L 2864 0 
+z
+" transform="scale(0.015625)"/>
+    </defs>
+    <use xlink:href="#ManropeREADME-Bold-35"/>
+    <use xlink:href="#ManropeREADME-Bold-ca" transform="translate(73.65625 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-fb" transform="translate(132.65625 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-ca" transform="translate(194.84375 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-11b" transform="translate(255.34375 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-a8" transform="translate(294.796875 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-f5" transform="translate(352.75 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-287" transform="translate(381.546875 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-11f" transform="translate(401.546875 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-126" transform="translate(456 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-11b" transform="translate(499.84375 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-ca" transform="translate(539.390625 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-a8" transform="translate(598.890625 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-fa" transform="translate(656.84375 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-e5" transform="translate(747.59375 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-fb" transform="translate(776.390625 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-dd" transform="translate(839.484375 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-287" transform="translate(901.484375 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-13e" transform="translate(921.484375 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-e5" transform="translate(977.53125 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-c6" transform="translate(1006.328125 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-ca" transform="translate(1068.421875 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-101" transform="translate(1128.921875 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-287" transform="translate(1191.171875 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-12b" transform="translate(1211.171875 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-fb" transform="translate(1274.265625 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-c6" transform="translate(1336.453125 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-ca" transform="translate(1398.546875 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-11b" transform="translate(1459.046875 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-11f" transform="translate(1497.59375 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-126" transform="translate(1552.046875 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-a8" transform="translate(1595.890625 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-fb" transform="translate(1653.84375 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-c6" transform="translate(1716.03125 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-e5" transform="translate(1778.125 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-fb" transform="translate(1806.921875 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-dd" transform="translate(1870.015625 0)"/>
+   </g>
+  </g>
+  <g id="text_41">
+   <!-- OVO-Bench -->
+   <g style="fill: #102b46" transform="translate(44.928 132.6308) scale(0.17 -0.17)">
+    <defs>
+     <path id="ManropeREADME-Bold-58" d="M 2413 -96 
+Q 1722 -96 1224 205 
+Q 726 506 459 1046 
+Q 192 1587 192 2304 
+Q 192 3021 459 3561 
+Q 726 4102 1224 4403 
+Q 1722 4704 2413 4704 
+Q 3104 4704 3600 4403 
+Q 4096 4102 4363 3561 
+Q 4630 3021 4630 2304 
+Q 4630 1587 4363 1046 
+Q 4096 506 3600 205 
+Q 3104 -96 2413 -96 
+z
+M 2413 678 
+Q 2864 672 3163 873 
+Q 3462 1075 3612 1443 
+Q 3763 1811 3763 2304 
+Q 3763 2797 3612 3158 
+Q 3462 3520 3163 3721 
+Q 2864 3923 2413 3930 
+Q 1962 3936 1661 3734 
+Q 1360 3533 1211 3165 
+Q 1062 2797 1062 2304 
+Q 1059 1811 1209 1449 
+Q 1360 1088 1661 886 
+Q 1962 685 2413 678 
+z
+" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Bold-26e" d="M 384 1987 
+L 384 2627 
+L 2304 2627 
+L 2304 1987 
+L 384 1987 
+z
+" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Bold-18" d="M 448 0 
+L 448 4608 
+L 2285 4608 
+Q 2762 4608 3064 4416 
+Q 3366 4224 3510 3929 
+Q 3654 3635 3654 3328 
+Q 3654 2944 3476 2683 
+Q 3299 2422 2992 2333 
+L 2989 2493 
+Q 3424 2400 3645 2088 
+Q 3866 1776 3866 1382 
+Q 3866 973 3712 661 
+Q 3558 349 3248 174 
+Q 2938 0 2477 0 
+L 448 0 
+z
+M 1280 774 
+L 2384 774 
+Q 2573 774 2720 852 
+Q 2867 931 2952 1073 
+Q 3037 1216 3037 1411 
+Q 3037 1584 2963 1721 
+Q 2890 1859 2746 1940 
+Q 2602 2022 2394 2022 
+L 1280 2022 
+L 1280 774 
+z
+M 1280 2790 
+L 2272 2790 
+Q 2429 2790 2552 2846 
+Q 2675 2902 2747 3019 
+Q 2819 3136 2819 3312 
+Q 2819 3539 2676 3689 
+Q 2534 3840 2272 3840 
+L 1280 3840 
+L 1280 2790 
+z
+" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Bold-c0" d="M 1962 -96 
+Q 1424 -96 1043 144 
+Q 662 384 459 795 
+Q 256 1206 256 1728 
+Q 256 2256 467 2669 
+Q 678 3082 1062 3317 
+Q 1446 3552 1971 3552 
+Q 2573 3552 2984 3249 
+Q 3395 2947 3514 2426 
+L 2694 2205 
+Q 2611 2477 2411 2630 
+Q 2211 2784 1962 2784 
+Q 1670 2784 1486 2646 
+Q 1302 2509 1214 2269 
+Q 1126 2029 1126 1728 
+Q 1126 1254 1336 963 
+Q 1546 672 1962 672 
+Q 2262 672 2427 809 
+Q 2592 947 2675 1203 
+L 3514 1024 
+Q 3360 486 2955 195 
+Q 2550 -96 1962 -96 
+z
+" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Bold-e2" d="M 2819 0 
+L 2819 1648 
+Q 2819 1789 2801 1979 
+Q 2784 2170 2710 2355 
+Q 2637 2541 2480 2662 
+Q 2323 2784 2045 2784 
+Q 1917 2784 1781 2742 
+Q 1645 2701 1531 2592 
+Q 1418 2483 1346 2283 
+Q 1274 2083 1274 1763 
+L 797 1981 
+Q 797 2406 965 2764 
+Q 1133 3123 1467 3339 
+Q 1802 3555 2298 3555 
+Q 2691 3555 2945 3424 
+Q 3200 3293 3344 3086 
+Q 3488 2880 3553 2654 
+Q 3619 2429 3636 2233 
+Q 3654 2038 3654 1936 
+L 3654 0 
+L 2819 0 
+z
+M 442 0 
+L 442 4608 
+L 1174 4608 
+L 1174 2211 
+L 1274 2211 
+L 1274 0 
+L 442 0 
+z
+" transform="scale(0.015625)"/>
+    </defs>
+    <use xlink:href="#ManropeREADME-Bold-58"/>
+    <use xlink:href="#ManropeREADME-Bold-95" transform="translate(72.34375 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-58" transform="translate(135.046875 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-26e" transform="translate(210.390625 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-18" transform="translate(252.390625 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-ca" transform="translate(315.796875 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-fb" transform="translate(374.796875 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-c0" transform="translate(436.984375 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-e2" transform="translate(494.9375 0)"/>
+   </g>
+  </g>
+  <g id="text_42">
+   <!-- Overall accuracy (%) -->
+   <g style="fill: #536a80" transform="translate(44.928 148.1744) scale(0.104 -0.104)">
+    <defs>
+     <path id="ManropeREADME-Medium-58" d="M 2342 -96 
+Q 1654 -96 1174 208 
+Q 694 512 443 1053 
+Q 192 1594 192 2304 
+Q 192 3014 443 3555 
+Q 694 4096 1174 4400 
+Q 1654 4704 2342 4704 
+Q 3034 4704 3514 4400 
+Q 3994 4096 4243 3555 
+Q 4493 3014 4493 2304 
+Q 4493 1594 4243 1053 
+Q 3994 512 3514 208 
+Q 3034 -96 2342 -96 
+z
+M 2342 448 
+Q 2858 445 3202 680 
+Q 3546 915 3717 1334 
+Q 3888 1754 3888 2304 
+Q 3888 2858 3717 3274 
+Q 3546 3690 3202 3923 
+Q 2858 4157 2342 4160 
+Q 1827 4163 1486 3929 
+Q 1146 3696 973 3277 
+Q 800 2858 797 2304 
+Q 794 1754 966 1338 
+Q 1139 922 1483 686 
+Q 1827 451 2342 448 
+z
+" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Medium-13e" d="M 1382 0 
+L 128 3456 
+L 704 3456 
+L 1674 726 
+L 2640 3456 
+L 3219 3456 
+L 1965 0 
+L 1382 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Medium-11b" d="M 448 0 
+L 448 3456 
+L 957 3456 
+L 957 2621 
+L 874 2730 
+Q 934 2890 1032 3024 
+Q 1130 3158 1251 3245 
+Q 1386 3354 1555 3411 
+Q 1725 3469 1901 3480 
+Q 2077 3491 2230 3456 
+L 2230 2922 
+Q 2051 2970 1836 2947 
+Q 1622 2925 1440 2790 
+Q 1274 2672 1182 2502 
+Q 1091 2333 1056 2136 
+Q 1021 1939 1021 1734 
+L 1021 0 
+L 448 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Medium-f5" d="M 512 0 
+L 512 4704 
+L 1082 4704 
+L 1082 0 
+L 512 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Medium-287" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Medium-c0" d="M 1904 -96 
+Q 1379 -96 1012 139 
+Q 646 374 454 787 
+Q 262 1200 256 1728 
+Q 262 2269 459 2680 
+Q 656 3091 1024 3321 
+Q 1392 3552 1910 3552 
+Q 2458 3552 2853 3283 
+Q 3248 3014 3382 2547 
+L 2819 2378 
+Q 2710 2678 2465 2844 
+Q 2221 3011 1904 3011 
+Q 1549 3011 1318 2846 
+Q 1088 2682 976 2392 
+Q 864 2102 861 1728 
+Q 867 1152 1128 798 
+Q 1389 445 1904 445 
+Q 2243 445 2467 600 
+Q 2691 755 2806 1050 
+L 3382 899 
+Q 3203 416 2822 160 
+Q 2442 -96 1904 -96 
+z
+" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Medium-12b" d="M 1760 -90 
+Q 1427 -90 1188 16 
+Q 950 122 793 298 
+Q 637 474 547 688 
+Q 458 902 421 1126 
+Q 384 1350 384 1546 
+L 384 3456 
+L 960 3456 
+L 960 1725 
+Q 960 1482 1005 1254 
+Q 1050 1027 1157 844 
+Q 1264 662 1445 556 
+Q 1626 451 1898 451 
+Q 2112 451 2288 524 
+Q 2464 598 2589 744 
+Q 2714 890 2781 1114 
+Q 2848 1338 2848 1635 
+L 3222 1520 
+Q 3222 1021 3041 659 
+Q 2861 298 2533 104 
+Q 2205 -90 1760 -90 
+z
+M 2912 0 
+L 2912 925 
+L 2848 925 
+L 2848 3456 
+L 3421 3456 
+L 3421 0 
+L 2912 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Medium-25c" d="M 2090 -1171 
+Q 1715 -739 1446 -201 
+Q 1178 336 1034 928 
+Q 890 1520 896 2112 
+Q 890 2707 1034 3299 
+Q 1178 3891 1446 4427 
+Q 1715 4963 2090 5395 
+L 2512 5075 
+Q 2134 4627 1892 4144 
+Q 1651 3661 1536 3150 
+Q 1421 2640 1418 2112 
+Q 1421 1590 1537 1076 
+Q 1654 563 1896 78 
+Q 2138 -406 2512 -848 
+L 2090 -1171 
+z
+" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Medium-2b7" d="M 960 0 
+L 576 384 
+L 4806 4608 
+L 5190 4224 
+L 960 0 
+z
+M 4230 -96 
+Q 3914 -96 3651 59 
+Q 3389 214 3233 475 
+Q 3078 736 3078 1056 
+Q 3078 1370 3238 1632 
+Q 3398 1894 3660 2051 
+Q 3923 2208 4230 2208 
+Q 4547 2208 4808 2053 
+Q 5069 1898 5225 1637 
+Q 5382 1376 5382 1056 
+Q 5382 736 5225 475 
+Q 5069 214 4808 59 
+Q 4547 -96 4230 -96 
+z
+M 4230 406 
+Q 4406 406 4555 496 
+Q 4704 586 4792 733 
+Q 4880 880 4880 1056 
+Q 4880 1232 4792 1381 
+Q 4704 1530 4555 1618 
+Q 4406 1706 4230 1706 
+Q 4054 1706 3907 1618 
+Q 3760 1530 3670 1381 
+Q 3581 1232 3581 1056 
+Q 3581 880 3670 733 
+Q 3760 586 3907 496 
+Q 4054 406 4230 406 
+z
+M 1536 2400 
+Q 1219 2400 958 2555 
+Q 698 2710 541 2971 
+Q 384 3232 384 3552 
+Q 384 3866 544 4128 
+Q 704 4390 966 4547 
+Q 1229 4704 1536 4704 
+Q 1853 4704 2113 4549 
+Q 2374 4394 2531 4133 
+Q 2688 3872 2688 3552 
+Q 2688 3232 2531 2971 
+Q 2374 2710 2113 2555 
+Q 1853 2400 1536 2400 
+z
+M 1536 2902 
+Q 1712 2902 1861 2992 
+Q 2010 3082 2098 3229 
+Q 2186 3376 2186 3552 
+Q 2186 3728 2098 3877 
+Q 2010 4026 1861 4114 
+Q 1712 4202 1536 4202 
+Q 1360 4202 1213 4114 
+Q 1066 4026 976 3877 
+Q 886 3728 886 3552 
+Q 886 3376 976 3229 
+Q 1066 3082 1213 2992 
+Q 1360 2902 1536 2902 
+z
+" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Medium-25d" d="M 694 -1171 
+L 272 -848 
+Q 646 -406 888 78 
+Q 1130 563 1248 1076 
+Q 1366 1590 1366 2112 
+Q 1366 2640 1249 3150 
+Q 1133 3661 891 4144 
+Q 650 4627 272 5075 
+L 694 5395 
+Q 1069 4963 1339 4427 
+Q 1610 3891 1752 3299 
+Q 1894 2707 1888 2112 
+Q 1894 1520 1752 928 
+Q 1610 336 1339 -201 
+Q 1069 -739 694 -1171 
+z
+" transform="scale(0.015625)"/>
+    </defs>
+    <use xlink:href="#ManropeREADME-Medium-58"/>
+    <use xlink:href="#ManropeREADME-Medium-13e" transform="translate(73.203125 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-ca" transform="translate(123.5 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-11b" transform="translate(182.546875 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-a8" transform="translate(218.140625 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-f5" transform="translate(274.390625 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-f5" transform="translate(299.296875 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-287" transform="translate(324.203125 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-a8" transform="translate(344.203125 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-c0" transform="translate(400.453125 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-c0" transform="translate(455.046875 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-12b" transform="translate(511.140625 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-11b" transform="translate(571.59375 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-a8" transform="translate(607.1875 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-c0" transform="translate(663.4375 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-145" transform="translate(717.53125 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-287" transform="translate(771.328125 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-25c" transform="translate(791.328125 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-2b7" transform="translate(834.828125 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-25d" transform="translate(924.921875 0)"/>
+   </g>
+  </g>
+  <g id="text_43">
+   <!-- StreamingBench -->
+   <g style="fill: #102b46" transform="translate(319.104 132.6308) scale(0.17 -0.17)">
+    <defs>
+     <path id="ManropeREADME-Bold-76" d="M 2173 -96 
+Q 1664 -96 1256 83 
+Q 848 262 585 593 
+Q 323 925 250 1386 
+L 1107 1514 
+Q 1203 1110 1513 891 
+Q 1824 672 2224 672 
+Q 2454 672 2664 744 
+Q 2874 816 3006 955 
+Q 3139 1094 3139 1296 
+Q 3139 1382 3113 1454 
+Q 3088 1526 3032 1587 
+Q 2976 1648 2883 1701 
+Q 2790 1754 2659 1792 
+L 1466 2144 
+Q 1322 2186 1144 2259 
+Q 966 2333 804 2464 
+Q 643 2595 536 2806 
+Q 429 3018 429 3334 
+Q 429 3792 659 4096 
+Q 890 4400 1275 4550 
+Q 1661 4701 2134 4698 
+Q 2608 4691 2981 4534 
+Q 3354 4378 3605 4078 
+Q 3856 3779 3965 3347 
+L 3078 3197 
+Q 3027 3430 2884 3592 
+Q 2742 3754 2542 3838 
+Q 2342 3923 2122 3930 
+Q 1904 3936 1715 3869 
+Q 1526 3802 1409 3675 
+Q 1293 3549 1293 3376 
+Q 1293 3216 1390 3117 
+Q 1488 3018 1635 2957 
+Q 1782 2896 1933 2854 
+L 2746 2634 
+Q 2922 2586 3134 2507 
+Q 3347 2429 3545 2291 
+Q 3744 2154 3872 1928 
+Q 4000 1702 4000 1357 
+Q 4000 992 3848 718 
+Q 3696 445 3438 264 
+Q 3181 83 2853 -6 
+Q 2525 -96 2173 -96 
+z
+" transform="scale(0.015625)"/>
+    </defs>
+    <use xlink:href="#ManropeREADME-Bold-76"/>
+    <use xlink:href="#ManropeREADME-Bold-126" transform="translate(66.40625 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-11b" transform="translate(110.25 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-ca" transform="translate(149.796875 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-a8" transform="translate(209.296875 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-fa" transform="translate(267.25 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-e5" transform="translate(358 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-fb" transform="translate(386.796875 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-dd" transform="translate(449.890625 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-18" transform="translate(511.890625 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-ca" transform="translate(575.296875 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-fb" transform="translate(634.296875 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-c0" transform="translate(696.484375 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-e2" transform="translate(754.4375 0)"/>
+   </g>
+  </g>
+  <g id="text_44">
+   <!-- Overall accuracy (%) -->
+   <g style="fill: #536a80" transform="translate(319.104 148.1744) scale(0.104 -0.104)">
+    <use xlink:href="#ManropeREADME-Medium-58"/>
+    <use xlink:href="#ManropeREADME-Medium-13e" transform="translate(73.203125 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-ca" transform="translate(123.5 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-11b" transform="translate(182.546875 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-a8" transform="translate(218.140625 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-f5" transform="translate(274.390625 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-f5" transform="translate(299.296875 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-287" transform="translate(324.203125 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-a8" transform="translate(344.203125 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-c0" transform="translate(400.453125 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-c0" transform="translate(455.046875 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-12b" transform="translate(511.140625 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-11b" transform="translate(571.59375 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-a8" transform="translate(607.1875 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-c0" transform="translate(663.4375 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-145" transform="translate(717.53125 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-287" transform="translate(771.328125 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-25c" transform="translate(791.328125 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-2b7" transform="translate(834.828125 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-25d" transform="translate(924.921875 0)"/>
+   </g>
+  </g>
+  <g id="text_45">
+   <!-- ProactiveVideoQA -->
+   <g style="fill: #102b46" transform="translate(593.28 132.6308) scale(0.17 -0.17)">
+    <defs>
+     <path id="ManropeREADME-Bold-6f" d="M 448 0 
+L 448 4608 
+L 2374 4608 
+Q 2442 4608 2550 4603 
+Q 2659 4598 2749 4582 
+Q 3155 4518 3417 4312 
+Q 3680 4106 3806 3794 
+Q 3933 3482 3933 3098 
+Q 3933 2714 3805 2400 
+Q 3677 2086 3414 1880 
+Q 3152 1674 2749 1610 
+Q 2659 1597 2548 1590 
+Q 2438 1584 2374 1584 
+L 1267 1584 
+L 1267 0 
+L 448 0 
+z
+M 1267 2352 
+L 2339 2352 
+Q 2403 2352 2483 2358 
+Q 2563 2365 2630 2384 
+Q 2816 2432 2918 2550 
+Q 3021 2669 3062 2814 
+Q 3104 2960 3104 3098 
+Q 3104 3232 3062 3379 
+Q 3021 3526 2918 3643 
+Q 2816 3760 2630 3808 
+Q 2563 3827 2483 3833 
+Q 2403 3840 2339 3840 
+L 1267 3840 
+L 1267 2352 
+z
+" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Bold-71" d="M 4054 -96 
+L 2723 1229 
+L 3235 1738 
+L 4557 416 
+L 4054 -96 
+z
+M 2413 -96 
+Q 1722 -96 1224 205 
+Q 726 506 459 1046 
+Q 192 1587 192 2304 
+Q 192 3021 459 3561 
+Q 726 4102 1224 4403 
+Q 1722 4704 2413 4704 
+Q 3104 4704 3600 4403 
+Q 4096 4102 4363 3561 
+Q 4630 3021 4630 2304 
+Q 4630 1587 4363 1046 
+Q 4096 506 3600 205 
+Q 3104 -96 2413 -96 
+z
+M 2413 678 
+Q 2864 672 3163 873 
+Q 3462 1075 3612 1443 
+Q 3763 1811 3763 2304 
+Q 3763 2797 3612 3158 
+Q 3462 3520 3163 3721 
+Q 2864 3923 2413 3930 
+Q 1962 3936 1661 3734 
+Q 1360 3533 1211 3165 
+Q 1062 2797 1062 2304 
+Q 1059 1811 1209 1449 
+Q 1360 1088 1661 886 
+Q 1962 685 2413 678 
+z
+" transform="scale(0.015625)"/>
+    </defs>
+    <use xlink:href="#ManropeREADME-Bold-6f"/>
+    <use xlink:href="#ManropeREADME-Bold-11b" transform="translate(64.453125 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-101" transform="translate(104 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-a8" transform="translate(166.25 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-c0" transform="translate(224.203125 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-126" transform="translate(282.15625 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-e5" transform="translate(326 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-13e" transform="translate(354.796875 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-ca" transform="translate(408.84375 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-95" transform="translate(466.34375 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-e5" transform="translate(529.046875 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-c6" transform="translate(557.84375 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-ca" transform="translate(619.9375 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-101" transform="translate(680.4375 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-71" transform="translate(742.6875 0)"/>
+    <use xlink:href="#ManropeREADME-Bold-1" transform="translate(816.03125 0)"/>
+   </g>
+  </g>
+  <g id="text_46">
+   <!-- PAUC · ω = 0.5 -->
+   <g style="fill: #536a80" transform="translate(593.28 148.1744) scale(0.104 -0.104)">
+    <defs>
+     <path id="ManropeREADME-Medium-6f" d="M 448 0 
+L 448 4608 
+L 2269 4608 
+Q 2336 4608 2429 4603 
+Q 2522 4598 2608 4582 
+Q 2982 4525 3236 4326 
+Q 3491 4128 3619 3825 
+Q 3747 3523 3747 3155 
+Q 3747 2790 3617 2488 
+Q 3488 2186 3233 1986 
+Q 2979 1786 2608 1728 
+Q 2522 1715 2429 1708 
+Q 2336 1702 2269 1702 
+L 1018 1702 
+L 1018 0 
+L 448 0 
+z
+M 1018 2243 
+L 2250 2243 
+Q 2310 2243 2388 2249 
+Q 2467 2256 2538 2272 
+Q 2758 2323 2897 2459 
+Q 3037 2595 3101 2779 
+Q 3165 2963 3165 3155 
+Q 3165 3347 3101 3531 
+Q 3037 3715 2897 3852 
+Q 2758 3990 2538 4038 
+Q 2467 4058 2388 4062 
+Q 2310 4067 2250 4067 
+L 1018 4067 
+L 1018 2243 
+z
+" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Medium-252" d="M 778 1632 
+Q 614 1632 499 1742 
+Q 384 1853 384 2016 
+Q 384 2182 499 2291 
+Q 614 2400 778 2400 
+Q 931 2400 1041 2291 
+Q 1152 2182 1152 2016 
+Q 1152 1853 1041 1742 
+Q 931 1632 778 1632 
+z
+" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Medium-211" d="M 1571 -99 
+Q 1136 -99 843 123 
+Q 550 346 403 726 
+Q 256 1107 256 1581 
+Q 256 2237 523 2741 
+Q 790 3245 1328 3552 
+L 1699 3085 
+Q 1254 2803 1057 2456 
+Q 861 2109 861 1610 
+Q 861 1280 947 1016 
+Q 1034 752 1206 598 
+Q 1379 445 1635 445 
+Q 1907 445 2036 605 
+Q 2166 765 2203 1029 
+Q 2240 1293 2240 1610 
+L 2240 2195 
+L 2774 2195 
+L 2774 1610 
+Q 2774 1293 2812 1029 
+Q 2851 765 2979 605 
+Q 3107 445 3379 445 
+Q 3645 445 3816 603 
+Q 3987 762 4070 1026 
+Q 4154 1290 4154 1610 
+Q 4154 2122 3954 2466 
+Q 3754 2810 3315 3085 
+L 3686 3552 
+Q 4237 3238 4497 2731 
+Q 4758 2224 4758 1578 
+Q 4758 1098 4609 718 
+Q 4461 339 4168 120 
+Q 3875 -99 3446 -99 
+Q 3104 -99 2827 80 
+Q 2550 259 2451 672 
+L 2563 672 
+Q 2470 259 2193 80 
+Q 1917 -99 1571 -99 
+z
+" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Medium-2a4" d="M 768 2634 
+L 768 3104 
+L 4032 3104 
+L 4032 2634 
+L 768 2634 
+z
+M 768 1504 
+L 768 1974 
+L 4032 1974 
+L 4032 1504 
+L 768 1504 
+z
+" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Medium-249" d="M 550 0 
+L 550 627 
+L 1178 627 
+L 1178 0 
+L 550 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="ManropeREADME-Medium-222" d="M 1811 -96 
+Q 1456 -96 1150 51 
+Q 845 198 629 456 
+Q 413 714 320 1050 
+L 867 1197 
+Q 925 970 1072 805 
+Q 1219 640 1416 549 
+Q 1613 458 1827 458 
+Q 2109 458 2334 594 
+Q 2560 730 2691 955 
+Q 2822 1181 2822 1450 
+Q 2822 1728 2686 1953 
+Q 2550 2179 2323 2310 
+Q 2096 2442 1827 2442 
+Q 1523 2442 1307 2315 
+Q 1091 2189 966 2006 
+L 461 2198 
+L 602 4608 
+L 3075 4608 
+L 3075 4067 
+L 877 4067 
+L 1130 4304 
+L 1011 2374 
+L 886 2538 
+Q 1078 2742 1345 2854 
+Q 1613 2966 1891 2966 
+Q 2320 2966 2659 2766 
+Q 2998 2566 3196 2222 
+Q 3395 1878 3395 1450 
+Q 3395 1024 3177 673 
+Q 2960 323 2600 113 
+Q 2240 -96 1811 -96 
+z
+" transform="scale(0.015625)"/>
+    </defs>
+    <use xlink:href="#ManropeREADME-Medium-6f"/>
+    <use xlink:href="#ManropeREADME-Medium-1" transform="translate(56.546875 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-82" transform="translate(119.140625 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-19" transform="translate(189.9375 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-287" transform="translate(262.234375 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-252" transform="translate(282.234375 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-287" transform="translate(306.234375 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-211" transform="translate(326.234375 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-287" transform="translate(404.578125 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-2a4" transform="translate(424.578125 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-287" transform="translate(499.578125 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-21d" transform="translate(519.578125 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-249" transform="translate(582.171875 0)"/>
+    <use xlink:href="#ManropeREADME-Medium-222" transform="translate(609.171875 0)"/>
+   </g>
+  </g>
+  <g id="legend_1">
+   <g id="patch_35">
+    <path d="M 31.77 79.8503 
+L 43.07 79.8503 
+L 43.07 69.7368 
+L 31.77 69.7368 
+z
+" style="fill: #008a79"/>
+   </g>
+   <g id="text_47">
+    <!-- ALIVE -->
+    <g style="fill: #102b46" transform="translate(52.11 78.6638) scale(0.113 -0.113)">
+     <defs>
+      <path id="ManropeREADME-Medium-4c" d="M 512 0 
+L 512 4608 
+L 1082 4608 
+L 1082 541 
+L 3219 541 
+L 3219 0 
+L 512 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="ManropeREADME-Medium-23" d="M 448 0 
+L 448 4608 
+L 3360 4608 
+L 3360 4067 
+L 1018 4067 
+L 1018 2624 
+L 2976 2624 
+L 2976 2083 
+L 1018 2083 
+L 1018 541 
+L 3360 541 
+L 3360 0 
+L 448 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#ManropeREADME-Medium-1"/>
+     <use xlink:href="#ManropeREADME-Medium-4c" transform="translate(64.59375 0)"/>
+     <use xlink:href="#ManropeREADME-Medium-3d" transform="translate(116.390625 0)"/>
+     <use xlink:href="#ManropeREADME-Medium-95" transform="translate(141.296875 0)"/>
+     <use xlink:href="#ManropeREADME-Medium-23" transform="translate(202.890625 0)"/>
+    </g>
+   </g>
+   <g id="patch_36">
+    <path d="M 99.614141 79.8503 
+L 110.914141 79.8503 
+L 110.914141 69.7368 
+L 99.614141 69.7368 
+z
+" style="fill: #ca984f"/>
+   </g>
+   <g id="text_48">
+    <!-- JoyAI-VL-Interaction -->
+    <g style="fill: #102b46" transform="translate(119.954141 78.6638) scale(0.113 -0.113)">
+     <defs>
+      <path id="ManropeREADME-Medium-26e" d="M 384 2070 
+L 384 2541 
+L 2304 2541 
+L 2304 2070 
+L 384 2070 
+z
+" transform="scale(0.015625)"/>
+      <path id="ManropeREADME-Medium-fb" d="M 2909 0 
+L 2909 1731 
+Q 2909 1978 2865 2205 
+Q 2822 2432 2715 2613 
+Q 2608 2794 2427 2899 
+Q 2246 3005 1971 3005 
+Q 1757 3005 1582 2933 
+Q 1408 2861 1283 2713 
+Q 1158 2566 1089 2344 
+Q 1021 2122 1021 1821 
+L 646 1936 
+Q 646 2438 827 2798 
+Q 1008 3158 1336 3352 
+Q 1664 3546 2109 3546 
+Q 2445 3546 2681 3440 
+Q 2918 3334 3075 3160 
+Q 3232 2986 3321 2770 
+Q 3411 2554 3448 2331 
+Q 3485 2109 3485 1910 
+L 3485 0 
+L 2909 0 
+z
+M 445 0 
+L 445 3456 
+L 957 3456 
+L 957 2531 
+L 1021 2531 
+L 1021 0 
+L 445 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#ManropeREADME-Medium-48"/>
+     <use xlink:href="#ManropeREADME-Medium-101" transform="translate(47.59375 0)"/>
+     <use xlink:href="#ManropeREADME-Medium-145" transform="translate(105.640625 0)"/>
+     <use xlink:href="#ManropeREADME-Medium-1" transform="translate(157.9375 0)"/>
+     <use xlink:href="#ManropeREADME-Medium-3d" transform="translate(222.53125 0)"/>
+     <use xlink:href="#ManropeREADME-Medium-26e" transform="translate(247.4375 0)"/>
+     <use xlink:href="#ManropeREADME-Medium-95" transform="translate(289.4375 0)"/>
+     <use xlink:href="#ManropeREADME-Medium-4c" transform="translate(351.03125 0)"/>
+     <use xlink:href="#ManropeREADME-Medium-26e" transform="translate(402.828125 0)"/>
+     <use xlink:href="#ManropeREADME-Medium-3d" transform="translate(444.828125 0)"/>
+     <use xlink:href="#ManropeREADME-Medium-fb" transform="translate(469.734375 0)"/>
+     <use xlink:href="#ManropeREADME-Medium-126" transform="translate(530.1875 0)"/>
+     <use xlink:href="#ManropeREADME-Medium-ca" transform="translate(569.09375 0)"/>
+     <use xlink:href="#ManropeREADME-Medium-11b" transform="translate(628.140625 0)"/>
+     <use xlink:href="#ManropeREADME-Medium-a8" transform="translate(663.734375 0)"/>
+     <use xlink:href="#ManropeREADME-Medium-c0" transform="translate(719.984375 0)"/>
+     <use xlink:href="#ManropeREADME-Medium-126" transform="translate(776.078125 0)"/>
+     <use xlink:href="#ManropeREADME-Medium-e5" transform="translate(817.234375 0)"/>
+     <use xlink:href="#ManropeREADME-Medium-101" transform="translate(842.140625 0)"/>
+     <use xlink:href="#ManropeREADME-Medium-fb" transform="translate(902.1875 0)"/>
+    </g>
+   </g>
+   <g id="patch_37">
+    <path d="M 246.812531 79.8503 
+L 258.112531 79.8503 
+L 258.112531 69.7368 
+L 246.812531 69.7368 
+z
+" style="fill: #9372ba"/>
+   </g>
+   <g id="text_49">
+    <!-- AURA -->
+    <g style="fill: #102b46" transform="translate(267.152531 78.6638) scale(0.113 -0.113)">
+     <use xlink:href="#ManropeREADME-Medium-1"/>
+     <use xlink:href="#ManropeREADME-Medium-82" transform="translate(62.59375 0)"/>
+     <use xlink:href="#ManropeREADME-Medium-72" transform="translate(133.390625 0)"/>
+     <use xlink:href="#ManropeREADME-Medium-1" transform="translate(197.4375 0)"/>
+    </g>
+   </g>
+   <g id="patch_38">
+    <path d="M 314.842062 79.8503 
+L 326.142063 79.8503 
+L 326.142063 69.7368 
+L 314.842062 69.7368 
+z
+" style="fill: #4f91c1"/>
+   </g>
+   <g id="text_50">
+    <!-- VideoChat3 -->
+    <g style="fill: #102b46" transform="translate(335.182063 78.6638) scale(0.113 -0.113)">
+     <use xlink:href="#ManropeREADME-Medium-95"/>
+     <use xlink:href="#ManropeREADME-Medium-e5" transform="translate(59.59375 0)"/>
+     <use xlink:href="#ManropeREADME-Medium-c6" transform="translate(84.5 0)"/>
+     <use xlink:href="#ManropeREADME-Medium-ca" transform="translate(144.546875 0)"/>
+     <use xlink:href="#ManropeREADME-Medium-101" transform="translate(203.59375 0)"/>
+     <use xlink:href="#ManropeREADME-Medium-19" transform="translate(263.640625 0)"/>
+     <use xlink:href="#ManropeREADME-Medium-e2" transform="translate(335.9375 0)"/>
+     <use xlink:href="#ManropeREADME-Medium-a8" transform="translate(396.390625 0)"/>
+     <use xlink:href="#ManropeREADME-Medium-126" transform="translate(452.640625 0)"/>
+     <use xlink:href="#ManropeREADME-Medium-220" transform="translate(493.796875 0)"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p8e368cdea9">
+   <rect x="53.568" y="166.1184" width="217.152" height="176.6016"/>
+  </clipPath>
+  <clipPath id="p076318e78e">
+   <rect x="327.744" y="166.1184" width="217.152" height="176.6016"/>
+  </clipPath>
+  <clipPath id="p484e3ce43b">
+   <rect x="601.92" y="166.1184" width="217.152" height="176.6016"/>
+  </clipPath>
+ </defs>
+</svg>
