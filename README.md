@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://arxiv.org/pdf/2611.21366"><img src="docs/assets/buttons/paper.png" alt="Paper — arXiv:2611.21366" height="42"></a>
-  <a aria-disabled="true"><img src="docs/assets/buttons/model.png" alt="Hugging Face Model — coming soon" height="42"></a>
-  <a aria-disabled="true"><img src="docs/assets/buttons/dataset.png" alt="Hugging Face Dataset — coming soon" height="42"></a>
+  <a name="model-coming-soon"><img src="docs/assets/buttons/model.png" alt="Hugging Face Model — coming soon" height="42"></a>
+  <a name="dataset-coming-soon"><img src="docs/assets/buttons/dataset.png" alt="Hugging Face Dataset — coming soon" height="42"></a>
   <a href="https://lijinzhao30.github.io/ALIVE/"><img src="docs/assets/buttons/website.png" alt="Project page" height="42"></a>
   <a href="https://lijinzhao30.github.io/ALIVE/#demo"><img src="docs/assets/buttons/demo.png" alt="Watch the demo" height="42"></a>
 </p>
