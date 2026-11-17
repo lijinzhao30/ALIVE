@@ -11,4 +11,4 @@ python docs/visuals/render_benchmarks.py
 
 The script writes PNG, SVG, and GIF versions to `docs/assets/`. GIFs animate once and then remain on the final scores. The README links each animation to its full-resolution static PNG. All four compared models use consistent colors in both benchmark groups.
 
-Paper, Model, and Dataset buttons in the main README intentionally have no links yet. To activate them, wrap each corresponding image in an anchor with its release URL and replace the SOON artwork.
+The Paper button links to https://arxiv.org/pdf/2611.21366. Model and Dataset buttons in the main README intentionally have no links yet. To activate them, wrap each corresponding image in an anchor with its release URL and replace the SOON artwork.

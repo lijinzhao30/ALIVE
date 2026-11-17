@@ -5,7 +5,7 @@
 <h1 align="center">ALIVE: Making Streaming Video Models Interactive</h1>
 
 <p align="center">
-  <img src="docs/assets/buttons/paper.png" alt="Paper — coming soon" height="42">
+  <a href="https://arxiv.org/pdf/2611.21366"><img src="docs/assets/buttons/paper.png" alt="Paper — arXiv:2611.21366" height="42"></a>
   <img src="docs/assets/buttons/model.png" alt="Hugging Face Model — coming soon" height="42">
   <img src="docs/assets/buttons/dataset.png" alt="Hugging Face Dataset — coming soon" height="42">
   <a href="https://lijinzhao30.github.io/ALIVE/"><img src="docs/assets/buttons/website.png" alt="Project page" height="42"></a>
@@ -27,7 +27,7 @@
 
 ## Demo
 
-**See ALIVE coordinate changing requests and seek feedback in English and Chinese.** Click the preview to watch the full narrated demo.
+Watch ALIVE demonstrate **Streaming Task Coordination** and **Feedback-Seeking Interaction** in English and Chinese. Click the preview to watch the full narrated demo.
 
 <a href="https://lijinzhao30.github.io/ALIVE/#demo"><img src="docs/assets/demo-preview.gif" alt="ALIVE demo preview: continuous video and a live conversation. Click to play the complete 4:38 demo with sound." width="100%"></a>
 
@@ -60,41 +60,10 @@ The comparisons below use the paper's reported overall scores for **ALIVE, JoyAI
 | AURA | 65.3 | 73.1 | 32.0 | 21.6 | 8.3 |
 | VideoChat3 | 58.8 | 68.7 | 37.6 | 12.0 | 5.9 |
 
-OVO-Bench, StreamingBench, and IPIBench report overall accuracy (%). ProactiveVideoQA reports PAUC at ω = 0.5. FSI-Bench reports four-task macro accuracy (%) under EDP. These are the comparisons reported in the paper, not a live leaderboard.
-
-[Explore the interactive results on the project page →](https://lijinzhao30.github.io/ALIVE/#results)
+OVO-Bench, StreamingBench, and IPIBench report overall accuracy (%). ProactiveVideoQA reports PAUC at ω = 0.5. FSI-Bench reports four-task macro accuracy (%) under EDP.
 
 ## Learning to interact
 
-ALIVE learns to **choose an appropriate strategy, respond accurately, and remain silent when a response is unwarranted** through two training stages:
-
-1. **Contrastive supervised fine-tuning.** Action-strategy and response-gate contrasts teach how evidence availability, active requests, task status, and user feedback determine the appropriate output. Interaction-aware training varies the visual window while retaining the dialogue history needed to interpret the task.
-2. **Reinforcement learning with Behavior-Aligned Credit Assignment.** Trajectory-level advantages guide overall interaction quality, while local advantages provide more specific feedback for strategy selection, task response, and critical silence across multi-turn interactions.
+ALIVE is trained in two stages. **Contrastive supervised fine-tuning** teaches when and how to respond. **Reinforcement learning with Behavior-Aligned Credit Assignment** combines trajectory-level and local advantages to refine strategy selection, task responses, and critical silence.
 
 <a href="docs/assets/figures/method.pdf"><img src="docs/assets/figures/method.png" alt="The ALIVE training framework: contrastive supervised fine-tuning followed by reinforcement learning with Behavior-Aligned Credit Assignment." width="100%"></a>
-
-## Data and evaluation
-
-| Resource | Scale | Purpose |
-| --- | ---: | --- |
-| **ALIVE-SFT-288K** | 288,436 interaction examples | Contrastive supervision for streaming interaction. |
-| **ALIVE-RL-3K** | 3,523 interaction examples | Reinforcement learning on model-generated interaction trajectories. |
-| **FSI-Bench** | 1,235 episodes | Evaluation of feedback seeking and subsequent task completion. |
-
-The training data spans proactive monitoring, streaming task coordination, and feedback-seeking interaction, with temporally grounded requests, responses, and silence conditions.
-
-<a href="docs/assets/figures/dataset.pdf"><img src="docs/assets/figures/dataset.png" alt="Construction and distributions of the ALIVE interaction datasets, covering diverse tasks and video sources." width="100%"></a>
-
-## Resources
-
-- **Available:** [project page](https://lijinzhao30.github.io/ALIVE/), [full demo](https://lijinzhao30.github.io/ALIVE/#demo), paper figures, and benchmark visualizations.
-- **Coming soon:** paper link, model checkpoints, datasets, and training/evaluation code. The Paper, Model, and Dataset buttons above are placeholders until their links are published.
-
-<details>
-<summary>Visual assets and credits</summary>
-
-The original paper figures are available as PNG previews and PDFs in [`docs/assets/figures`](docs/assets/figures). The full demo is stored in [`docs/assets/alive-demo.mp4`](docs/assets/alive-demo.mp4). Benchmark data and the plotting script are in [`docs/visuals`](docs/visuals).
-
-Demo music: **Life of Riley** by Kevin MacLeod ([incompetech.com](https://incompetech.com/)), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Manrope is licensed under the [SIL Open Font License](docs/assets/fonts/OFL.txt). Model and Hugging Face icons belong to their respective projects; source links are recorded in [`docs/assets/CREDITS.md`](docs/assets/CREDITS.md).
-
-</details>
