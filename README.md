@@ -49,16 +49,9 @@ ALIVE brings together a new interaction setting, large-scale training data, and 
 
 The comparisons below use the paper's reported overall scores for **ALIVE, JoyAI-VL-Interaction, AURA, and VideoChat3**. Each chart starts at zero; higher is better. FSI-Bench reports the **Explicit Decision Protocol (EDP)**.
 
-<a href="docs/assets/benchmarks-understanding.png"><img src="docs/assets/benchmarks-understanding.gif" alt="General streaming video understanding: ALIVE scores 68.9 on OVO-Bench, 76.0 on StreamingBench, and 51.6 on ProactiveVideoQA. Full comparison values are listed below." width="100%"></a>
+<a href="docs/assets/benchmarks-understanding.png"><img src="docs/assets/benchmarks-understanding.gif" alt="General streaming video understanding: ALIVE scores 68.9 on OVO-Bench, 76.0 on StreamingBench, and 51.6 on ProactiveVideoQA." width="100%"></a>
 
-<a href="docs/assets/benchmarks-interaction.png"><img src="docs/assets/benchmarks-interaction.gif" alt="Streaming interaction: ALIVE scores 40.3 on IPIBench and 52.8 on FSI-Bench EDP. Full comparison values are listed below." width="100%"></a>
-
-| Model | OVO-Bench ↑ | StreamingBench ↑ | ProactiveVideoQA ↑ | IPIBench ↑ | FSI-Bench (EDP) ↑ |
-| --- | ---: | ---: | ---: | ---: | ---: |
-| **ALIVE** | **68.9** | **76.0** | **51.6** | **40.3** | **52.8** |
-| JoyAI-VL-Interaction | 60.6 | 67.4 | 28.8 | 20.2 | 17.4 |
-| AURA | 65.3 | 73.1 | 32.0 | 21.6 | 8.3 |
-| VideoChat3 | 58.8 | 68.7 | 37.6 | 12.0 | 5.9 |
+<a href="docs/assets/benchmarks-interaction.png"><img src="docs/assets/benchmarks-interaction.gif" alt="Streaming interaction: ALIVE scores 40.3 on IPIBench and 52.8 on FSI-Bench EDP." width="100%"></a>
 
 OVO-Bench, StreamingBench, and IPIBench report overall accuracy (%). ProactiveVideoQA reports PAUC at ω = 0.5. FSI-Bench reports four-task macro accuracy (%) under EDP.
 
