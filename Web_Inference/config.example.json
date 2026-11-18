@@ -1,0 +1,10 @@
+{
+  "model_path": "models/ALIVE",
+  "model_url": "",
+  "asr_model_path": "models/Qwen3-ASR-1.7B",
+  "tts_model_path": "models/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+  "main_gpu": "0",
+  "voice_gpu": "1",
+  "port": 8090,
+  "startup_timeout": 2400
+}

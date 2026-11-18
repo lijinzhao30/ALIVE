@@ -1,0 +1,4 @@
+vllm==0.32.0
+vllm-omni==0.32.0
+transformers==5.19.0
+aiohttp==3.14.5

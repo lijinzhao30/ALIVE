@@ -25,6 +25,18 @@
   <sub>* Equal contribution &nbsp; † Corresponding author</sub>
 </p>
 
+## Local web inference
+
+The **[local deployment guide](Web_Inference/README.md)** provides the ALIVE browser interface, streaming speech recognition, and speech synthesis on **two GPUs**: one for ALIVE and one shared by ASR/TTS. It includes Chinese/English interface labels and selectable voices, with the demo inference settings preserved.
+
+| Component | Hugging Face checkpoint |
+| --- | --- |
+| ALIVE | |
+| ASR | [Qwen/Qwen3-ASR-1.7B](https://huggingface.co/Qwen/Qwen3-ASR-1.7B) |
+| TTS | [Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice) |
+
+The ALIVE checkpoint link will be added later. Follow the guide to supply a local checkpoint, install the isolated environments, and open `https://localhost:8090`. This code release excludes demo recording, evaluation-session logging, and public tunnel deployment.
+
 ## Demo
 
 Watch ALIVE demonstrate **Streaming Task Coordination** and **Feedback-Seeking Interaction** in English and Chinese. Click the preview to watch the full narrated demo.
