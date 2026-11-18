@@ -5,14 +5,13 @@
 <h1 align="center">ALIVE: Making Streaming Video Models Interactive</h1>
 
 <p align="center">
-  <a href="https://arxiv.org/pdf/2611.21366"><img src="docs/assets/buttons/paper.png" alt="Paper — arXiv:2611.21366" height="42"></a>
-  <a name="model-coming-soon"><img src="docs/assets/buttons/model.png" alt="Hugging Face Model — coming soon" height="42"></a>
+  <a href="https://arxiv.org/abs/2611.21366"><img src="docs/assets/buttons/paper.png" alt="Paper — arXiv:2611.21366" height="42"></a>
+  <a href="https://huggingface.co/ALIVE-Team/ALIVE"><img src="docs/assets/buttons/model-active.png" alt="Model — ALIVE-8B on Hugging Face" height="42"></a>
   <a name="dataset-coming-soon"><img src="docs/assets/buttons/dataset.png" alt="Hugging Face Dataset — coming soon" height="42"></a>
+  <a name="fsi-bench-coming-soon"><img src="docs/assets/buttons/fsi-bench.png" alt="FSI-Bench on Hugging Face — coming soon" height="42"></a>
   <a href="https://lijinzhao30.github.io/ALIVE/"><img src="docs/assets/buttons/website.png" alt="Project page" height="42"></a>
   <a href="https://lijinzhao30.github.io/ALIVE/#demo"><img src="docs/assets/buttons/demo.png" alt="Watch the demo" height="42"></a>
 </p>
-
-<p align="center"><b>Continuously perceive. Coordinate evolving tasks. Seek the feedback needed to proceed.</b></p>
 
 <p align="center">
   Jinzhao Li<sup>1,3,*</sup> · Yuan Xu<sup>2,3,*</sup> · Jinxuan Wu<sup>4</sup> · Yukun Wang<sup>1</sup> · Yijia Lei<sup>1</sup> · Hanyu Ji<sup>2</sup> · Yinuo Chen<sup>1</sup> · Zining Huang<sup>1</sup><br>
@@ -25,50 +24,107 @@
   <sub>* Equal contribution &nbsp; † Corresponding author</sub>
 </p>
 
-## Local web inference
-
-The **[local deployment guide](Web_Inference/README.md)** provides the ALIVE browser interface, streaming speech recognition, and speech synthesis on **two GPUs**: one for ALIVE and one shared by ASR/TTS. It includes Chinese/English interface labels and selectable voices, with the demo inference settings preserved.
-
-| Component | Hugging Face checkpoint |
-| --- | --- |
-| ALIVE | |
-| ASR | [Qwen/Qwen3-ASR-1.7B](https://huggingface.co/Qwen/Qwen3-ASR-1.7B) |
-| TTS | [Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice) |
-
-The ALIVE checkpoint link will be added later. Follow the guide to supply a local checkpoint, install the isolated environments, and open `https://localhost:8090`. This code release excludes demo recording, evaluation-session logging, and public tunnel deployment.
+<p align="center"><b>An interactive streaming video model for proactive monitoring,<br>streaming task coordination, and feedback-seeking interaction.</b></p>
 
 ## Demo
-
-Watch ALIVE demonstrate **Streaming Task Coordination** and **Feedback-Seeking Interaction** in English and Chinese. Click the preview to watch the full narrated demo.
 
 <a href="https://lijinzhao30.github.io/ALIVE/#demo"><img src="docs/assets/demo-preview.gif" alt="ALIVE demo preview: continuous video and a live conversation. Click to play the complete 4:38 demo with sound." width="100%"></a>
 
 <p align="center"><a href="https://lijinzhao30.github.io/ALIVE/#demo"><b>▶ Watch the full demo · 4:38 · English + 中文</b></a> &nbsp; · &nbsp; <a href="https://raw.githubusercontent.com/lijinzhao30/ALIVE/main/docs/assets/alive-demo.mp4">Download MP4</a></p>
 
-## Toward interactive streaming
+## Overview
 
-Streaming video models can continuously observe the world, yet often handle user requests in isolation. **ALIVE** moves toward sustained interaction: it responds at the right moment, coordinates evolving tasks, and actively seeks missing information or visual evidence.
+Streaming video LLMs can continuously observe the world, yet often handle user requests in isolation. **ALIVE** turns them into interactive assistants with three capabilities:
 
-| 🔵 Proactive Monitoring | 🟣 Streaming Task Coordination | 🟠 Feedback-Seeking Interaction |
-| --- | --- | --- |
-| Monitor unfolding events and respond when the requested condition is met. | Maintain multiple requests and update active tasks as instructions change. | Ask for clarification, request a concrete user action, or propose continued monitoring when more evidence is needed. |
+| Capability | What ALIVE does |
+| :--- | :--- |
+| 🔵 **Proactive Monitoring** | Monitor unfolding events and respond when the requested condition is met. |
+| 🟣 **Streaming Task Coordination** | Maintain multiple requests and update active tasks as instructions change. |
+| 🟠 **Feedback-Seeking Interaction** | Ask for clarification, request a concrete user action, or propose continued monitoring when more evidence is needed. |
 
-<a href="docs/assets/figures/teaser.pdf"><img src="docs/assets/figures/teaser.png" alt="ALIVE paper overview: proactive monitoring, evolving task coordination, and feedback-seeking interaction along a continuous stream." width="100%"></a>
+<p align="center">
+  <a href="docs/assets/figures/teaser.png"><img src="docs/assets/figures/teaser.png" alt="ALIVE overview: proactive monitoring, streaming task coordination, and feedback-seeking interaction along a continuous stream." width="100%"></a>
+</p>
 
-ALIVE brings together a new interaction setting, large-scale training data, and a two-stage learning framework. It achieves the **highest overall scores among the models compared in the paper on all five benchmarks**, covering both general streaming video understanding and streaming interaction.
+## Quick Start
 
-## Benchmark results
+Run the ALIVE browser demo locally with streaming speech recognition and speech synthesis on **two GPUs**: one for ALIVE and one shared by ASR/TTS (Linux, Python 3.12).
 
-The comparisons below use the paper's reported overall scores for **ALIVE, JoyAI-VL-Interaction, AURA, and VideoChat3**. Each chart starts at zero; higher is better. FSI-Bench reports the **Explicit Decision Protocol (EDP)**.
+| Component | Hugging Face checkpoint |
+| :--- | :--- |
+| ALIVE | [ALIVE-Team/ALIVE](https://huggingface.co/ALIVE-Team/ALIVE) (`ALIVE-8B`) |
+| ASR | [Qwen/Qwen3-ASR-1.7B](https://huggingface.co/Qwen/Qwen3-ASR-1.7B) |
+| TTS | [Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice) |
 
-<a href="docs/assets/benchmarks-understanding.png"><img src="docs/assets/benchmarks-understanding.gif" alt="General streaming video understanding: ALIVE scores 68.9 on OVO-Bench, 76.0 on StreamingBench, and 51.6 on ProactiveVideoQA." width="100%"></a>
+`setup.py` installs the isolated environments and downloads the ASR/TTS checkpoints; download ALIVE-8B separately:
 
-<a href="docs/assets/benchmarks-interaction.png"><img src="docs/assets/benchmarks-interaction.gif" alt="Streaming interaction: ALIVE scores 40.3 on IPIBench and 52.8 on FSI-Bench EDP." width="100%"></a>
+```bash
+git clone https://github.com/lijinzhao30/ALIVE.git
+cd ALIVE/Web_Inference
 
-OVO-Bench, StreamingBench, and IPIBench report overall accuracy (%). ProactiveVideoQA reports PAUC at ω = 0.5. FSI-Bench reports four-task macro accuracy (%) under EDP.
+python3.12 scripts/setup.py
+huggingface-cli download ALIVE-Team/ALIVE --include "ALIVE-8B/*" --local-dir models/ALIVE
 
-## Learning to interact
+cp config.example.json config.json         # set "model_path": "models/ALIVE/ALIVE-8B"
+python3.12 start.py                        # open https://localhost:8090
+```
 
-ALIVE is trained in two stages. **Contrastive supervised fine-tuning** teaches when and how to respond. **Reinforcement learning with Behavior-Aligned Credit Assignment** combines trajectory-level and local advantages to refine strategy selection, task responses, and critical silence.
+See the [web inference guide](Web_Inference/README.md) for details.
 
-<a href="docs/assets/figures/method.pdf"><img src="docs/assets/figures/method.png" alt="The ALIVE training framework: contrastive supervised fine-tuning followed by reinforcement learning with Behavior-Aligned Credit Assignment." width="100%"></a>
+## Data
+
+We build **ALIVE-SFT-288K** for supervised fine-tuning and **ALIVE-RL-3K** for reinforcement learning.
+
+<p align="center">
+  <a href="docs/assets/figures/dataset.png"><img src="docs/assets/figures/dataset.png" alt="Construction and composition of ALIVE-SFT-288K and ALIVE-RL-3K." width="100%"></a>
+</p>
+
+## Method
+
+ALIVE is trained in two stages:
+
+- **Contrastive supervised fine-tuning** teaches when and how to respond.
+- **Reinforcement learning with Behavior-Aligned Credit Assignment (BACA)** refines decisions, responses, and silence across multi-turn interactions.
+
+<p align="center">
+  <a href="docs/assets/figures/method.png"><img src="docs/assets/figures/method.png" alt="The ALIVE training framework: contrastive supervised fine-tuning followed by reinforcement learning with Behavior-Aligned Credit Assignment." width="100%"></a>
+</p>
+
+## Benchmark
+
+- We introduce **FSI-Bench** to evaluate whether streaming video LLMs, when the current context is insufficient to resolve a request, can identify the missing prerequisite, actively seek the required feedback, and complete the task.
+- ALIVE achieves the highest overall scores among the compared models on four public benchmarks and FSI-Bench, demonstrating strong streaming understanding and interactive capabilities.
+
+<p align="center">
+  <a href="docs/assets/benchmarks-understanding.png"><img src="docs/assets/benchmarks-understanding.gif" alt="General streaming video understanding results on OVO-Bench, StreamingBench, and ProactiveVideoQA." width="100%"></a>
+</p>
+
+<p align="center">
+  <a href="docs/assets/benchmarks-interaction.png"><img src="docs/assets/benchmarks-interaction.gif" alt="Streaming interaction results on IPIBench and FSI-Bench." width="100%"></a>
+</p>
+
+## TODO
+
+- [x] Paper
+- [x] ALIVE-8B checkpoint
+- [x] Local web inference
+- [ ] Benchmark and evaluation code
+- [ ] Training data
+
+## Citation
+
+```bibtex
+@misc{li2026alivemakingstreamingvideo,
+      title={ALIVE: Making Streaming Video Models Interactive},
+      author={Jinzhao Li and Yuan Xu and Jinxuan Wu and Yukun Wang and Yijia Lei and Hanyu Ji and Yinuo Chen and Zining Huang and Chi Zhang and Hang Ye and Yiwu Zhong and Honglei Yan and Panwang Pan and Yizhou Wang and Yin Li and Miao Liu},
+      year={2026},
+      eprint={2611.21366},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2611.21366},
+}
+```
+
+## License
+
+Code is released under the [Apache License 2.0](LICENSE). See [third-party notices](THIRD_PARTY_NOTICES.md) and [asset credits](docs/assets/CREDITS.md).
