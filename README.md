@@ -32,6 +32,13 @@
 
 <p align="center"><a href="https://lijinzhao30.github.io/ALIVE/#demo"><b>▶ Watch the full demo · 4:38 · English + 中文</b></a> &nbsp; · &nbsp; <a href="https://raw.githubusercontent.com/lijinzhao30/ALIVE/main/docs/assets/alive-demo.mp4">Download MP4</a></p>
 
+<p align="center">
+  <b>More demos:</b>
+  <a href="https://lijinzhao30.github.io/ALIVE/#realworld-demos">Real-world live conversations ↗</a>
+  &nbsp; · &nbsp;
+  <a href="https://lijinzhao30.github.io/ALIVE/#webvideo-demos">Web-video demos ↗</a>
+</p>
+
 ## Overview
 
 Streaming video LLMs can continuously observe the world, yet often handle user requests in isolation. **ALIVE** turns them into interactive assistants with three capabilities:
