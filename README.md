@@ -28,9 +28,9 @@
 
 ## Demo
 
-<a href="https://lijinzhao30.github.io/ALIVE/#demo"><img src="docs/assets/demo-preview.gif" alt="ALIVE demo preview: continuous video and a live conversation. Click to play the complete 4:38 demo with sound." width="100%"></a>
+<a href="https://lijinzhao30.github.io/ALIVE/#demo"><img src="docs/assets/demo-poster.webp?v=951cfea13d7f" alt="ALIVE demo cover with the paper title, authors, and affiliations. Click to watch the complete 4:38 demo with sound." width="100%"></a>
 
-<p align="center"><a href="https://lijinzhao30.github.io/ALIVE/#demo"><b>▶ Watch the full demo · 4:38 · English + 中文</b></a> &nbsp; · &nbsp; <a href="https://raw.githubusercontent.com/lijinzhao30/ALIVE/main/docs/assets/alive-demo.mp4">Download MP4</a></p>
+<p align="center"><a href="https://lijinzhao30.github.io/ALIVE/#demo"><b>▶ Watch the full demo · 4:38 · English + 中文</b></a> &nbsp; · &nbsp; <a href="https://raw.githubusercontent.com/lijinzhao30/ALIVE/main/docs/assets/alive-demo.mp4?v=951cfea13d7f">Download MP4</a></p>
 
 <p align="center">
   <b>More demos:</b>

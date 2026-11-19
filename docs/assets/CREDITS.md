@@ -1,7 +1,7 @@
 # Asset sources
 
 - Research figures: the ALIVE authors' original `teaser.pdf`, `method.pdf`, and `dataset.pdf` from the paper. PNGs are high-resolution previews of these PDFs.
-- Demo: the authors' approved ALIVE paper demo; the MP4 retains its complete video and soundtrack. The silent animated preview is a short excerpt.
+- Demo: the authors' supplied `Alive_demo_page.mp4`, encoded as 1080p H.264 for the web while retaining the complete video and original AAC soundtrack. The README cover is its first frame. The archived silent animated preview is an excerpt of the earlier demo.
 - Music: “Life of Riley” by Kevin MacLeod, [incompetech.com](https://incompetech.com/), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 - ALIVE logo: supplied by the authors. Benchmark icons show the mark without its wordmark.
 - JoyAI-VL-Interaction icon: [project page](https://joyai-vl-video-future-academy-jd.github.io/JoyAI-VL-Interaction/).
