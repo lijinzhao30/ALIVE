@@ -13,6 +13,8 @@
   <a href="https://lijinzhao30.github.io/ALIVE/#demo"><img src="docs/assets/buttons/demo.png" alt="Watch the demo" height="42"></a>
 </p>
 
+<p align="center"><a href="https://huggingface.co/papers/2611.21366"><strong>🤗 Hugging Face Daily Papers · #2 Paper of the day</strong></a></p>
+
 <p align="center">
   Jinzhao Li<sup>1,3,*</sup> · Yuan Xu<sup>2,3,*</sup> · Jinxuan Wu<sup>4</sup> · Yukun Wang<sup>1</sup> · Yijia Lei<sup>1</sup> · Hanyu Ji<sup>2</sup> · Yinuo Chen<sup>1</sup> · Zining Huang<sup>1</sup><br>
   Chi Zhang<sup>1</sup> · Hang Ye<sup>2</sup> · Yiwu Zhong<sup>2</sup> · Honglei Yan<sup>3</sup> · Panwang Pan<sup>3</sup> · Yizhou Wang<sup>2</sup> · Yin Li<sup>5</sup> · Miao Liu<sup>1,†</sup>
