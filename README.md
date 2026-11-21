@@ -123,14 +123,11 @@ ALIVE is trained in two stages:
 ## Citation
 
 ```bibtex
-@misc{li2026alivemakingstreamingvideo,
-      title={ALIVE: Making Streaming Video Models Interactive},
-      author={Jinzhao Li and Yuan Xu and Jinxuan Wu and Yukun Wang and Yijia Lei and Hanyu Ji and Yinuo Chen and Zining Huang and Chi Zhang and Hang Ye and Yiwu Zhong and Honglei Yan and Panwang Pan and Yizhou Wang and Yin Li and Miao Liu},
-      year={2026},
-      eprint={2611.21366},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2611.21366},
+@article{li2026alive,
+  title={ALIVE: Making Streaming Video Models Interactive},
+  author={Li, Jinzhao and Xu, Yuan and Wu, Jinxuan and Wang, Yukun and Lei, Yijia and Ji, Hanyu and Chen, Yinuo and Huang, Zining and Zhang, Chi and Ye, Hang and others},
+  journal={arXiv preprint arXiv:2611.21366},
+  year={2026}
 }
 ```
 
